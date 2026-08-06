@@ -24,12 +24,11 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=2
 
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+#EXTVLCOPT:http-referrer=https://tv.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="NASIONAL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", INDOSIAR HD
@@ -65,13 +64,11 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 #https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="NASIONAL",SCTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://stream.bonetv.web.id/index.mpd?q=204&ext=drm&x=1786020604&k=2c888589bffec81ead8374033923128b9035ccde794460ed47d0bd8b713e6c9b
-https://stream.bonetv.web.id/index.mpd?q=204&ext=dash&x=1786020604&k=c34ad881d35f89f4249ee58e7e609f19722307ef3197e5cc2a2de56b6bd7d47e&sc=204
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
+#EXTVLCOPT:http-referrer=https://tv.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=204&type=dash
 
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="NASIONAL", GTV 
