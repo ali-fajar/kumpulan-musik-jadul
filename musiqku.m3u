@@ -31,7 +31,8 @@ https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="NASIONAL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", INDOSIAR HD
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+https://masterplayer.pro:443/Kang_pagal12/12Kang_pagal/1.ts
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
@@ -117,7 +118,8 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=10
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
-https://cdnjkt913.transvision.co.id:1000/live/master/4/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/4/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/5.m3u8
 
 
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnsJ8qTMpStOBT6OBz7XpoL8VahdVzHuJnwxc8cBXL33uVzrWiUbVONND&s=10" group-title="NASIONAL", RTV 
@@ -2297,7 +2299,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO GROUP",HBO (CUBMU)
 #https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=hbo&type=m3u8
-https://iptv.lancartech.co.id:443/live/bombom/full/52.m3u8
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/48.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2306,7 +2308,7 @@ https://iptv.lancartech.co.id:443/live/bombom/full/52.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-id="hbohitsasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png", HBO HITS (CubMu) 
 #https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=hbohits&type=m3u8
-https://iptv.lancartech.co.id:443/live/bombom/full/54.m3u8
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/49.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2315,7 +2317,7 @@ https://iptv.lancartech.co.id:443/live/bombom/full/54.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-id="hbofamilyasia.sg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO FAMILY (CubMu) 
 #https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=hbofamily&type=m3u8
-https://iptv.lancartech.co.id:443/live/bombom/full/53.m3u8
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/50.m3u8
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2325,7 +2327,7 @@ https://iptv.lancartech.co.id:443/live/bombom/full/53.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-id="hbosignatureasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO SIGNATURE (CubMu) 
 #https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=hbosignature&type=m3u8
-https://iptv.lancartech.co.id:443/live/bombom/full/55.m3u8
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/51.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2334,7 +2336,7 @@ https://iptv.lancartech.co.id:443/live/bombom/full/55.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-id="cinemaxasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX (CubMu) 
 #https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=cinemax&type=m3u8
-https://iptv.lancartech.co.id:443/live/bombom/full/48.m3u8
+https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/53.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO GROUP",HBO CIGNAL
