@@ -122,7 +122,7 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmugay.ambatukan.workers.dev
 #https://cdnjkt913.transvision.co.id:1000/live/master/4/2c9f9082998232e0019b35e7220c5b63/manifest.mpd
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/5.m3u8
+#https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/5.m3u8
 
 
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnsJ8qTMpStOBT6OBz7XpoL8VahdVzHuJnwxc8cBXL33uVzrWiUbVONND&s=10" group-title="NASIONAL", RTV 
