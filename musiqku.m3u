@@ -1294,7 +1294,11 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=547
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Horee.png",HOree!
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=ba28ba48a69c3168a2dca359974ee051:00ec48ab9b2e3c4a127728dbffe1a004
+https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/newmpd/HoreeHD.mpd
 
 
 #EXTINF:-1 tvg-id="Nickelodeon - [Channel 49].id" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="KIDS", NICKELODEON
@@ -6493,7 +6497,17 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=119
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=120
 
+#EXTINF:-1 group-title="MotoGP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png",SPOTV FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=719640d07be13777ac9ae6cfdc907900:10e3a09d93b3ff83fad266f7b68f4ae0
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/newmpd/SPOTVHD.mpd
 
+#EXTINF:-1 group-title="MotoGP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv%202.png",SPOTV 2 FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=5eee3b41d8c73760b6319d796e3071fa:2c8f665b47e7056cbc04d43923f0317e
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/newmpd/SPOTV2HD.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="MotoGP", MOTO GP
