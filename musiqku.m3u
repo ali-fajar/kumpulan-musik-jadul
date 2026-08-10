@@ -7245,11 +7245,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/in
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzB_fLNkZya2PLZqi119SUf7Dl_NYmGLHOvQ&s", FOX SOCCER PLUS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://gpuserver3.tier1streams.com/FOX_SOCCER_PLUS/index.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=foxsoccer&type=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 1 HDTV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png", FOX SPORTS 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://iptv.lancartech.co.id:443/live/bombom/full/83277.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fs1&type=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgheq-04s4Hz1zdSSIP_nkgwEPlg3KNJSjoEgPZ_mIpvapO4qDaGvlJ4&s=10", FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -7258,7 +7258,7 @@ https://iptv.lancartech.co.id:443/live/bombom/full/83277.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 #https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-https://iptv.lancartech.co.id:443/live/bombom/full/83278.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fs2&type=m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Fox Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/800px-FOX_Deportes_logo.png", FOX DEPORTES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -7816,7 +7816,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=skymix&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fusball&type=m3u8
 
 
 #EXTINF:-1 tvg-id="Skynz1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u21iij1642606935.png" group-title="SPORTS", Skynz 1
@@ -7907,10 +7908,10 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=119
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=120
 
-#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png" group-title="SPORTS", SPORTV BRA 1 
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ruvrus1437612002.png" group-title="SPORTS", SPORTV BRA 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="SPORTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/SporTV_2_2017_logo.svg/250px-SporTV_2_2017_logo.svg.png" group-title="SPORTS", SPORTV BRA 2
@@ -7918,7 +7919,7 @@ https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SporTV_3_logo_2011.png/800px-SporTV_3_logo_2011.png" group-title="SPORTS", SPORTV BRA 3
+#EXTINF:-1 tvg-id="SPORTV3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yuusqs1437612244.png" group-title="SPORTS", SPORTV BRA 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
@@ -8023,32 +8024,32 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="SPORTS",TRUE PREMIER 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts1/index.m3u8
 #https://www.livedoomovies.com:4431/02_sport1_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3k9usk1749974218.png" group-title="SPORTS",TRUE SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
 #https://www.livedoomovies.com:4431/02_sport3_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w6w05k1749974207.png" group-title="SPORTS",TRUE SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts3/index.m3u8
 #https://www.livedoomovies.com:4431/02_sport2_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7tprqt1749974198.png" group-title="SPORTS",TRUE SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts4/index.m3u8
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts4/index.m3u8
 #https://www.livedoomovies.com:4431/02_sport4_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fdsyh71749974190.png" group-title="SPORTS",TRUE SPORT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.88-hd.com/
 #https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd4_720p/chunklist.m3u8
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
 #https://www.livedoomovies.com:4431/02_sport5_720p/playlist.m3u8
 
 #EXTINF:-1  tvg-name="ASPORT" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",  group-title="SPORTS", A Sports HD
@@ -8096,15 +8097,15 @@ https://playyonogames.in/sliv/stream.m3u8?id=1000009275
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co.com/p24tp0P/unifisports.png" group-title="SPORTS", UNIFI SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+$https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SPORTS",Star Sports Select 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+$https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS",Star Sports Select 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
+$https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 
 
 
@@ -8112,14 +8113,13 @@ https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=QFJCNOzG--rkaFe3FiNQ2A&expires=1774312473
+#https://n9.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=QFJCNOzG--rkaFe3FiNQ2A&expires=1774312473
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr9HMb6hcR25CGmQrlcxQiSzHP8rCnT7j6CcOvymBGq1biOYvr9dp8cMo&s=10" group-title="SPORTS",Star Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276732.ts
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276732&extension=.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=sportindia2&type=m3u8
 
 
 
@@ -8211,19 +8211,21 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+#https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=tudn&type=m3u8
 
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSleQJSzgd5zyZKYpguioPIR2xoeWNhLko9GQ&s" group-title="SPORTS", TELEMUNDO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd
+#https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(WSNS)/master.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=telemundo&type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/JpNamYP.jpg" group-title="SPORTS", W-SPORT
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 
 
 
@@ -8233,13 +8235,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://iili.io/JpN1zwF.png" group-title="SPORTS", ZIGGO SPORT DOCU
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ziggo1&type=m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://iili.io/JpN1WPf.png" group-title="SPORTS", ZIGGO SPORT SELECT
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ziggo2&type=m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://iili.io/JpNlDe1.png" group-title="SPORTS", ZIGGO SPORT VOETBAL
-http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ziggo3&type=m3u8
 
 =========================== PLUTO TV =============================================================
 
