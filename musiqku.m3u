@@ -35,7 +35,8 @@ https://beetv.my.id/stream/vd.m3u8?ch=indosiar
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
-https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
+#https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=205
+http://31.43.191.125:8080/VIP016151761118478102/b84ce4b6c3af/34327
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
