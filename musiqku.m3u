@@ -1691,8 +1691,8 @@ https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.t
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
-#https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
-https://iptv.lancartech.co.id:443/live/bombom/full/165.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="KNOWLEDGE",Discovery Asia
@@ -1700,8 +1700,8 @@ https://iptv.lancartech.co.id:443/live/bombom/full/165.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
-#https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
-https://iptv.lancartech.co.id:443/live/bombom/full/164.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQwHCvPB/discofam.png" group-title="KNOWLEDGE", DISCOVERY FAMILY 
@@ -1783,7 +1783,7 @@ https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/240p-cc/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
 #https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mediampd/LoveNatureHD.mpd
-https://iptv.lancartech.co.id:443/live/bombom/full/168.m3u8
+#https://iptv.lancartech.co.id:443/live/bombom/full/168.m3u8
 
 
 
@@ -2473,22 +2473,28 @@ https://thor1.syndula1.cfd/diva/usergenm48Qhxrnd.m3u8
 =========================================== INTERNATIONAL TV ===========================================
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYyV_qtSOdQt9bT6c-f5pdNdJxQhnOD9w9-H0K-3mH58mr7meSe_qQSMg&s=10" group-title="WORLD TV", MONOMAX 1
-https://love.verowo7190.workers.dev/lx-origin/th-monomax01_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/3b/e5/e7/3be5e7e89da0092a955965ffaf60a885.jpg" group-title="WORLD TV", ZEE CINEMA HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+https://yupp-origin-vt.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYyV_qtSOdQt9bT6c-f5pdNdJxQhnOD9w9-H0K-3mH58mr7meSe_qQSMg&s=10" group-title="WORLD TV", MONOMAX 2
-https://love.verowo7190.workers.dev/lx-origin/th-monomax02_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2018/08/zeebollywoodlogoNEW.jpg" group-title="WORLD TV", ZEE BOLYWOOD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/main.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/list_clean/1920x1080listf4bcb2e81b744e42bca19bf507d674c1.png", ZEE ACTION
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
 
 
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://www.visionplus.id/images/repository/687/687-LOGO-m.png",TV5Monde Asie (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png", &PICTURE
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/main.mpd
 
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg",Shenzen TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
