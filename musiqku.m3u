@@ -7,20 +7,18 @@
 =========================================== NASIONAL ===========================================
 
 #EXTINF:-1 tvg-name="INFO" tvg-logo="https://iili.io/d9UB3Bf.jpg" group-title="NASIONAL",BERLANGGANAN APLIKASI FORSAT TV PRO DI 081341216753/DANA
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=120.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://www.visionplus.id/images/repository/446/353446-SNAPSHOT-l.png" group-title="NASIONAL", MNC TV
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=2
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=2
+#EXTVLCOPT:http-user-agent=android-R+ (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR 
@@ -41,11 +39,8 @@ $http://31.43.191.125:8080/VIP016151761118478102/b84ce4b6c3af/34327
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", RCTI HD
@@ -53,7 +48,7 @@ https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=1
+#https://bintangstreaming.my.id/rcti_pro/index.mpd?id=1
 
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="NASIONAL",SCTV
@@ -80,20 +75,17 @@ https://beetv.my.id/stream/vd.m3u8?ch=sctv
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="NASIONAL", GTV 
 #EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:contentlookup=false
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://bintangstreaming.my.id/000/rcti.php/.m3u8?id=gtv
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
 
 
 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXorlOXd_rW-sny5VAYf1Cv9gDpaXjqQ0ZquygkagnmVVMCZT6d4DLQI&s=10" group-title="NASIONAL",TransTV HD
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=6
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=6
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=6.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
@@ -101,7 +93,9 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=7
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=7
+#https://bintangstreaming.my.id/rcti_pro/index.mpd?id=7
+https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/30/Trans-7-1341636338.jpeg" group-title="NASIONAL", Trans 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -111,11 +105,11 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=10
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=10
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=10.play
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -140,11 +134,11 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lit
 
 
 #EXTINF:-1 tvg-name="MDTV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="NASIONAL", MDTV
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=23
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=23
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=23.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-name="MDTV" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="NASIONAL", MDTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -161,7 +155,7 @@ https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=12
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=12
+#https://bintangstreaming.my.id/rcti_pro/index.mpd?id=12
 
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE 2
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -184,7 +178,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=14
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=14
+#https://bintangstreaming.my.id/rcti_pro/index.mpd?id=14
 
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://statik.tempo.co/data/2013/01/31/id_164912/164912_650.jpg" group-title="NASIONAL", METRO TV 2
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -6494,18 +6488,18 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png" group-title="MotoGP",SPOTV V+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=119
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=119
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=119.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/657/657-LOGO-m.png" group-title="MotoGP",SPOTV 2 V+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=120.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 group-title="MotoGP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png",SPOTV FIRST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7868,59 +7862,59 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=fusball&type=m3u8
 #https://lchdvideo.live/sky8nz.m3u8
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxEUERSkc6M_MdM0sTcbz9_q53dC98aU902pefP_qK_bnNYrLBJKtJxl1&s=10" group-title="SPORTS", SOCCER CHANNEL
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=115
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=115.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 
 
 
 #EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="SPORTS", SPORTSTARS
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=112
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=112
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=112.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png" group-title="SPORTS", SPORTSTARS 2
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=113
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="SPORTS", SPORTSTARS 3
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=114
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=114.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SPORTS", SPORTSTARS 4
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=115
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=115
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=205.play
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQej1Z4bkaS-r2pnO6PRluXGpxGDpIzAu2bJ7nHTHO2i1I3zX0Ae3nocPkq&s=10",SPO TV
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=119
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=119
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=119.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
 
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-name="" group-title="SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/ukPeKAaUw6sbWtd0UvEwfcC6dG0=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg",SPO TV 2
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=120
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=120.play
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ruvrus1437612002.png" group-title="SPORTS", SPORTV BRA 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
