@@ -70,7 +70,8 @@ https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://beetv.my.id/stream/vd.m3u8?ch=sctv
+#https://beetv.my.id/stream/vd.m3u8?ch=sctv
+https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/SCTV.m3u8
 
 
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="NASIONAL", GTV 
