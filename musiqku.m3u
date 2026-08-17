@@ -2185,17 +2185,17 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(syfy-west)/master.mpd
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MOVIES",MBC 1
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4mcRi-LzJJ0TOyjiNxCplarXweM96IFG9wx_O_EKpB9na8E9Wg7JQkY&s=10" group-title="MOVIES",MOVIE HUB
+https://aka-live1050.delivery.roku.com/be8e0aad-9c0d-4b4d-ac10-d0c72bb6c7f3/t2-origin/out/v1/live_404.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MOVIES",MBC 3
-https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-vmFUiVtdZ6GJU9Q9dV96rsJPcDnB7NbKQK_qeOlIWKSoTFUnJV7_cY&s=10" group-title="MOVIES",RUN TV
+https://runn-tv.keralive.workers.dev/runntv/stream/p_runact/manifest/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MOVIES",MBC 4
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-vmFUiVtdZ6GJU9Q9dV96rsJPcDnB7NbKQK_qeOlIWKSoTFUnJV7_cY&s=10" group-title="MOVIES",RUN TV THRIELLER
+https://runn-tv.keralive.workers.dev/runntv/stream/p_runthr/manifest/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MOVIES",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/kung-fu-logo-png_seeklogo-518294.png" group-title="MOVIES",KUNGFU PLUS
+https://sofast-lg.vgcdn.net/sofast2/v1/0197e3c1d0c91ebd4704322ec12ab0/0197e3c1ff391ea506ec3d31079d44/kung_fu_eng_2500k.m3u8
 
 
 
