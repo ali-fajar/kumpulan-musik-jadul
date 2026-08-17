@@ -6612,11 +6612,13 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=motogp&type=m3u8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUfbFeXXwhr4guQ9a5fBKGXiAknKqoKJFbS0vibMqEg&s=10" group-title="MotoGP", FIM JUNIOR GP
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMppXYYwbP4KH3OdSgTH36DfmoHixEb5YnLxzv8n4C79ZOVfVVpMWzR_1j&s=10" group-title="MotoGP", MXGP 1HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=vy4ogPuyv9g
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/mxgp1.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMppXYYwbP4KH3OdSgTH36DfmoHixEb5YnLxzv8n4C79ZOVfVVpMWzR_1j&s=10" group-title="MotoGP", MXGP 2HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/mxgp2.m3u8
 
 ########################################VNL##################
 
