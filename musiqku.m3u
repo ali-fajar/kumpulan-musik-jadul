@@ -7350,6 +7350,20 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
+
+#EXTINF:-1 tvg-logo="https://cms.dreamsports.group/wp-content/uploads/2021/05/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="SPORTS",Fancode 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://cms.dreamsports.group/wp-content/uploads/2021/05/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="SPORTS",Fancode 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/V234tYz/geosuper.png" group-title="SPORTS", Geo Super
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7865,7 +7879,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=skygp&type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 #https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
-https://bintangstreaming.my.id/connect/index.m3u8?channel=skyevent&type=m3u
+https://bintangstreaming.my.id/connect/index.m3u8?channel=skyevent&type=m3u8
 
 
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png" group-title="SPORTS", Sky SPORTS FOOTBALL
@@ -8134,15 +8148,13 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-#https://n1.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=7eIvQmy1Khb4_m-F4lPVcA&expires=1774312474
-#https://tvsen6.aynaott.com/asports/index.m3u8?e=1779293347&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d628418a746617c70070db61246c11ca
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/detail/263-2631569_http-www-crikify-com-ten-cricket-live-ten.png" group-title="SPORTS", TEN CRICKET
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-#https://n7.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=yErA6lRBEmLXMyEXFDVThw&expires=1774312474
-#https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779293346&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=05a16dc24f5d6f9f6a1af4c834dbb730
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS",SONY SPORTS TEN 1 
@@ -8179,19 +8191,17 @@ $https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="SPORTS",Star Sports Select 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-$https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS",Star Sports Select 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-$https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xkekt61643389138.png" group-title="SPORTS",Star Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-#https://n9.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=QFJCNOzG--rkaFe3FiNQ2A&expires=1774312473
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports1.m3u8
 
 
 
@@ -8200,9 +8210,6 @@ $https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=sportindia2&type=m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe3hvPhtrLZ2Uu64rIlRFURWjdy6or4XbUQJyM0BN3TwnyVF3Hyw2tFdT8&s=10" group-title="SPORTS",A Sport
-#http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png", SPORT 1 HONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
