@@ -6323,6 +6323,21 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s2/131217
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png",SKY SPORTS ACTION / NFL HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s2/1312180.m3u8
 
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/CYTAVISIONSPORTS1.png",CYTAVISION SPORTS 1 HD.
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1434096.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/CYTAVISIONSPORTS2.png",CYTAVISION SPORTS 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1078719.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/CYTAVISIONSPORTS3.png",CYTAVISION SPORTS 3 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1078720.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/CYTAVISIONSPORTS4.png",CYTAVISION SPORTS 4 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1078721.m3u8
+
+
+
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/max-sport-1-logo%20(1).png",MAX SPORT 1 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/228727.m3u8
 
