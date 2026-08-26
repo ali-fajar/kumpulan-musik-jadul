@@ -6033,7 +6033,11 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bundes3&type=m3u8
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bundes4&type=m3u8
 
+#EXTINF:-1 group-title="BUNDESLIGA" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",SKY BUNDESLIGA 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/411425.m3u8
 
+#EXTINF:-1 group-title="BUNDESLIGA" tvg-logo="http://51.158.145.100/picons/logos/GERMANY/SKYBUNDESLIGA.png",SKY BUNDESLIGA 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/411424.m3u8
 ========================================== MLS =============================================================================
 
 
