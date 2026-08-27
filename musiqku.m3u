@@ -4599,7 +4599,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/newmpd/SCTVHD.mpd
 
 ========================================TRANSVISION=====================================================
 
-
+#EXTINF:-1 tvg-id="4028c6856c3db2cc016cd6e647532391" tvg-name="SCTV" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cd6e647532391/f9ff1d38a8204154908ada76a4eb8fbf.png" group-title="TRANSVISION",SCTV TRV
+#KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aff3cd37444a3466842b6b84af21af4f:48102df7bb1e7a192b692fb5464b85c7,aa876a0908d33ce4ab2777176eb25889:988b70bcf73959cfac70783199c54036,025790c4ce1e39ae8fbc7630707e512f:8bf0cdf678ff946f6669b21ee958ff04,367635554c37313167346e4747446a56:4d5a35684d7244613661774162536b42,7be2dff6cb2935a59a3d9bdf738e0e3f:08a6dcbf80c5ee588ab9288bff47fb33,cee5b16872f73dd3bfc21c526157bb72:a57f6c450769140490dcca3850787cdb
+https://cors-tranvision.bintangstream513.workers.dev/https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="ID.216" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" group-title="TRANSVISION", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
