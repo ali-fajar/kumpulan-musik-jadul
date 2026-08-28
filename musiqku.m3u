@@ -6245,9 +6245,9 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=futsal1&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=futsal2&type=m3u8
 
 
-========================================WC QF ==================================================
+========================================SPORT FORSAT==================================================
 
-EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM1.png",ARENA SPORT 1 PREMIUM HD
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM1.png",ARENA SPORT 1 PREMIUM HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/801858.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM2.png",ARENA SPORT 2 PREMIUM HD
