@@ -6399,6 +6399,12 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picons.cmshulk.com/picons/1001367.png",V SPORT PREMIER LEAGUE 4 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/1001367.m3u8
 
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://103.176.90.95/images/144416.png",SUPERSPORT MOTORSPORT HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/144416.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://103.176.90.95/images/144410.png",SUPERSPORT LIGA HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/144410.m3u8
+
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png",HUB PREMIER
 #https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314076.m3u8
 
@@ -6517,11 +6523,8 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=119
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=120
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 group-title="MotoGP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png",SPOTV FIRST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=719640d07be13777ac9ae6cfdc907900:10e3a09d93b3ff83fad266f7b68f4ae0
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/newmpd/SPOTVHD.mpd
+#EXTINF:-1 group-title="MotoGP" tvg-logo="http://103.176.90.95/images/144416.png",SUPERSPORT MOTORSPORT HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/144416.m3u8
 
 #EXTINF:-1 group-title="MotoGP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv%202.png",SPOTV 2 FIRST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
