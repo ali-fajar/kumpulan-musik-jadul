@@ -4678,7 +4678,7 @@ https://cors-tranvision.bintangstream513.workers.dev/https://cdnjkt913.transvisi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be13e795b7e14b4b8f309a0d97041967:cd422725a8764a6d9dfe7a950b5a8733
 #https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-https://cdnjktcyber05.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VFJBTlM3LW15/manifest.mpd?signature=NDYzNDM3ZDQ0YjAwZTMxMzJiMmI0NzMzZjdhOTRlZWE=&time=15243316364
+#https://cdnjktcyber05.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VFJBTlM3LW15/manifest.mpd?signature=NDYzNDM3ZDQ0YjAwZTMxMzJiMmI0NzMzZjdhOTRlZWE=&time=15243316364
 
 #EXTINF:-1 tvg-id="ID.211" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/cfc9d256-0421-447e-9aae-431db3de77c3.png" group-title="TRANSVISION", MetroTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -5778,27 +5778,27 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b 
-https://kontolgedetv.my.id/HubPremier1/manifest.mpd
+#https://kontolgedetv.my.id/HubPremier1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", tvg-id="" group-title="LIGA INGGRIS",HUB 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2 
-https://kontolgedetv.my.id/HubPremier12/manifest.mpd
+#https://kontolgedetv.my.id/HubPremier12/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", tvg-id="" group-title="LIGA INGGRIS",HUB 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be 
-https://kontolgedetv.my.id/HubPremier3/manifest.mpd
+#https://kontolgedetv.my.id/HubPremier3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", tvg-id="" group-title="LIGA INGGRIS",HUB 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png", tvg-id="" group-title="LIGA INGGRIS",HUB 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
