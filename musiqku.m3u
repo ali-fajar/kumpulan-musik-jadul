@@ -1080,8 +1080,8 @@ EXTVLCOPT:http-referrer=https://m.vidio.com/
 #http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/B8_d19S86s6LOtybMcSoV3yVAoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214821/0a3c13.png" group-title="BADMINTON", COURT 1A
-#https://badmintonlive.net/live-stream/live/98ef19a0d5b2f41dcebe2bae359140e6.flv
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO BADMINTON" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sys7xt1750838681.png" group-title="BADMINTON", ASTRO COURT 1A
+http://ktpremium.world:2095/xm1001/4757410/1010678
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/B8_d19S86s6LOtybMcSoV3yVAoY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5214821/0a3c13.png" group-title="BADMINTON", COURT 1B
 #https://badmintonlive.net/live-stream/live/53c3fac0062494b78845c38bf1e1ef7b.flv
