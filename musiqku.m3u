@@ -98,8 +98,7 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be13e795b7e14b4b8f309a0d97041967:cd422725a8764a6d9dfe7a950b5a8733
-#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-https://cdnjktcyber05.transvision.co.id/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VFJBTlM3LW15/manifest.mpd?signature=NDYzNDM3ZDQ0YjAwZTMxMzJiMmI0NzMzZjdhOTRlZWE=&time=15243316364
+http://ikitv.sqn.at:8000/play/a019/index.m3u8
 
 
 
