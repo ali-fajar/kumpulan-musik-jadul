@@ -5779,12 +5779,14 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b 
 #https://kontolgedetv.my.id/HubPremier1/manifest.mpd
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032529.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", tvg-id="" group-title="LIGA INGGRIS",HUB 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2 
 #https://kontolgedetv.my.id/HubPremier12/manifest.mpd
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels3/1032528.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", tvg-id="" group-title="LIGA INGGRIS",HUB 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -6403,6 +6405,13 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/s
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",SPORT KLUB 4 FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/110767.m3u8
+
+#EXTINF:-1 group-title="SPORTS FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png",STAR SPORTS SELECT 1 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373202.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png",STAR SPORTS SELECT 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373201.m3u8
+
 
 ========================================F1========================================================
 
