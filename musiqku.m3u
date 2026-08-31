@@ -5965,7 +5965,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bundes2&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bundes3&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzp6yffvIhzqrpxF4crch0bMOD2GrtB-wFyYGqgQtd9thcIWVCN4g99pg&s=10" group-title="BUNDESLIGA", BUNDES 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bundes4&type=m3u8
 
@@ -5978,30 +5978,30 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/s
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTVLCOPT:http-referrer=https://embed.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls1&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTVLCOPT:http-referrer=https://embed.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://embed.st
 #EXTVLCOPT:http-referrer=https://embed.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls3&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls4&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGsTx3YNxCkNfSAkpjWuBkWkRXvh6th16Rmzap1kVoA&s=10" group-title="MLS", MLS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://embed.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls5&type=m3u8
 
