@@ -6278,20 +6278,48 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/s
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT4.png",ARENA SPORT 4 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/110907.m3u8
 
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",BEIN SPORTS 1 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798772.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",BEIN SPORTS 2 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798773.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",BEIN SPORTS 3 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798788.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png",BEIN SPORTS 4 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798789.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png",BEIN SPORTS 5 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798790.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png",BEIN SPORTS 6 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798791.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",BEIN SPORTS 7 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798792.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png",BEIN SPORTS 8 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798793.m3u8
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png",BEIN SPORTS 9 UHD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798794.m3u8
+
+
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",SKY SPORTS MAIN EVENT HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s2/1312176.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1311999.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png",SKY SPORTS PREMIER LEAGUE HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s2/1312177.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312002.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png",SKY SPORTS FOOTBALL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s2/1312178.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1311997.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png",SKY SPORTS MIX HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s2/1312179.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1312000.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png",SKY SPORTS ACTION / NFL HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s2/1312180.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png",SKY SPORTS ACTION HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/1311993.m3u8
 
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/GREECENEW/CYTAVISIONSPORTS1.png",CYTAVISION SPORTS 1 HD.
@@ -6406,7 +6434,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/s
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",SPORT KLUB 4 FHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/110767.m3u8
 
-#EXTINF:-1 group-title="SPORTS FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png",STAR SPORTS SELECT 1 HD
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png",STAR SPORTS SELECT 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373202.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png",STAR SPORTS SELECT 2 HD
