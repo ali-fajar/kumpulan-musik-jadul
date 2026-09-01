@@ -2238,7 +2238,6 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 
 
 
-
 #EXTINF:-1 tvg-chno="" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png" group-title="MOVIES",Action Hollywood Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
@@ -2268,6 +2267,36 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",PEACOCK ORIGINAL 1 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095510.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",PEACOCK ORIGINAL 2 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095509.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",PEACOCK ORIGINAL 3 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095508.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",PEACOCK ORIGINAL 4 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095507.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/Peacock.png",PEACOCK ORIGINAL 5 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095506.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",PARAMOUNT+ ORIGINAL 1 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095583.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",PARAMOUNT+ ORIGINAL 2 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095582.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",PARAMOUNT+ ORIGINAL 3 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095581.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",PARAMOUNT+ ORIGINAL 4 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095580.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://51.158.145.100/picons/logos/PPV/PARAMOUNTPLUS.png",PARAMOUNT+ ORIGINAL 5 ᴴᴰ
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels8/1095579.m3u8
 
 =========================================== HBO GROUP ===========================================
 
@@ -2324,7 +2353,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO GROUP",HBO (CUBMU)
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
 
@@ -2336,7 +2365,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
 #EXTINF:-1 group-title="HBO GROUP" tvg-id="hbofamilyasia.sg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png",HBO FAMILY (CubMu) 
@@ -2346,7 +2375,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
 
@@ -2358,7 +2387,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 
 
@@ -2369,7 +2398,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
 
@@ -4614,7 +4643,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/newmpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_headers=Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aff3cd37444a3466842b6b84af21af4f:48102df7bb1e7a192b692fb5464b85c7,aa876a0908d33ce4ab2777176eb25889:988b70bcf73959cfac70783199c54036,025790c4ce1e39ae8fbc7630707e512f:8bf0cdf678ff946f6669b21ee958ff04,367635554c37313167346e4747446a56:4d5a35684d7244613661774162536b42,7be2dff6cb2935a59a3d9bdf738e0e3f:08a6dcbf80c5ee588ab9288bff47fb33,cee5b16872f73dd3bfc21c526157bb72:a57f6c450769140490dcca3850787cdb
-https://cors-tranvision.bintangstream513.workers.dev/https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
+#https://cors-tranvision.bintangstream513.workers.dev/https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd|Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="ID.216" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/f86ac7c8-ed6b-4d19-9be2-1d3fdf3e97a3.png" group-title="TRANSVISION", Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
