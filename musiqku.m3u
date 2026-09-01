@@ -2344,7 +2344,8 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+http://ikitv.sqn.at:8000/play/a047/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
