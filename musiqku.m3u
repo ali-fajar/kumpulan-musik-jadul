@@ -2309,7 +2309,8 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-http://gvisiontv.channell.my.id/ch/ph/hbo.php/.mpd
+#http://gvisiontv.channell.my.id/ch/ph/hbo.php/.mpd
+http://ikitv.sqn.at:8000/play/a024/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HBO GROUP",HBO HITS INDI
