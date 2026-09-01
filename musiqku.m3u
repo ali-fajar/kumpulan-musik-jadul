@@ -2308,7 +2308,9 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+http://gvisiontv.channell.my.id/ch/ph/hbo.php/.mpd
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HBO GROUP",HBO HITS INDI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2320,13 +2322,10 @@ https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #EXTINF:-1 tvg-id="Hbo family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="HBO GROUP",HBO FAMILY INDI
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
+http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=106
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO GROUP",HBO SIGNATURE INDI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
