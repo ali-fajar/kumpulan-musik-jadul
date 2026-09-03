@@ -502,7 +502,7 @@ http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://liveplus.rctiplus.id/rcti2023.m3u8
-https://nontonlagi.rctiplus.id/abvia/persib/manifest720.m3u8
+#https://nontonlagi.rctiplus.id/abvia/persib/manifest720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.msy.gov.qa/wp-content/uploads/2025/05/GqxCG1EWQAAz3sS-1568x882.jpeg" group-title="LIVE EVENTS", FIFA U17 1
@@ -525,8 +525,8 @@ https://nontonlagi.rctiplus.id/abvia/persib/manifest720.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-origin=https://direct94.livenobarseru.com
-#EXTVLCOPT:http-referrer=https://direct94.livenobarseru.com/
+#EXTVLCOPT:http-origin=https://lxscore.com
+#EXTVLCOPT:http-referrer=https://lxscore.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=feed1&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 2 
