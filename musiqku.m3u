@@ -648,50 +648,18 @@ https://live2.livefeedtextbox.com/live/channel5.m3u8
 #EXTINF:-1 tvg-id="LIGUE 1" group-title="LIVE HARI INI" tvg-logo="https://i.imgur.com/wsgHulY.png", 🔥01;45 WIB - TOULOUSE VS LOSC LILLE |LIGUE 1 PRANCIS| NICK
 https://live2.domainkqt.cc/live/channel5.m3u8
 
--------------------------
-##EXTINF:-1 tvg-id="PREMIERE LEAGUE" group-logo="https://i.imgur.com/EjShOOP.png" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/gasy9d1737743125.png", 🔥02;00 WIB - ASTON VILLA VS ARSENAL |PREMIER LEAGUE INGGRIS
-https://live2.brenvoxedgenetwork.com/live/channel1.m3u8
-
 ==========================
 #EXTINF:-1 tvg-id="LALIGA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ja4it51687628717.png", 🔥02;00 WIB - REAL SOCIEDAD VS CELTA VIGO |LALIGA SPANYOL|
 https://live2.domainkqt.cc/live/channel1.m3u8
 
 
-==========================
-##EXTINF:-1 tvg-id="SERIE A ITALIA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/67q3q21679951383.png", 🔥23;30 WIB - LECEE VS AS ROMA |SERIE A ITALIA|
-https://live2.brenvoxedgenetwork.com/live/channel15.m3u8
-
-========================
 #EXTINF:-1 tvg-id="COPPA ITALIA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/hrm1vo1692679408.png", 23:00 WIB - PALERMO VS MONTAVA |COPPA ITALIA|
 https://live2.domainkqt.cc/live/channel11.m3u8
 
 #EXTINF:-1 tvg-id="COPPA ITALIA" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/hrm1vo1692679408.png", 🔥02;00 WIB - CAGLIARI VS HELLAS VERONA |COPPA ITALIA|
 https://live2.domainkqt.cc/live/channel15.m3u8
 
-==========================
-##EXTINF:-1 tvg-id="UZB 01" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/ju8uc21782688170.png", 21:00 WIB - BUNYODKO VS KOKAND |UZBEKISTAN PRO LEAGUE
-#EXTVLCOPT:http-referrer=https://m.sutbongtv.vip/room/9912060?scheduleId=317949
-https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=0b6cf73e8e846c8c80f0be56cdb28981&txTime=6a876080
 
-===========================
-##EXTINF:-1 tvg-id="ARM 01" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/h4o8zq1687710680.png", 19:00 WIB - FK VAN VS FK SYUNIK |ARMENIA PREMIER LEAGUE
-#EXTVLCOPT:http-referrer=https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false
-https://live2.livefeedtextbox.com/live/channel12.m3u8
-
-============================
-##EXTINF:-1 tvg-id="ROM C" group-title="LIVE HARI INI" tvg-logo="https://upload-wikimedia-org.translate.goog/wikipedia/en/7/7b/Cupa_and_Supercupa_Romaniei_2016_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original&_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs", 21:00 WIB - CSA STAVA VS FK CSIKSZEREDA |ROMANIA CUP
-#EXTVLCOPT:http-referrer=https://xl365.textliveupdaterz.com/ajax/chanel/type/8/link/channel20/off-tvc?is_off_add=false
-https://live2.livefeedtextbox.com/live/channel4.m3u8
-
-=============================
-##EXTINF:-1 tvg-id="QAT 01" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/hekdan1784606842.png", 21:15 WIB - AL WAKRAB VS QATAR SPORTS |QATAR STAR LEAGUE
-#EXTVLCOPT:http-referrer=https://xl365.textliveupdaterz.com/ajax/chanel/type/8/link/channel22/off-tvc?is_off_add=false
-https://live2.livefeedtextbox.com/live/channel13.m3u8
-
-============================
-##EXTINF:-1 tvg-id="RUS 01" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/tbbx911752735233.png", 22:00 WIB -NEFTEKHIMIK VS FC SOCHI |RUSSIAN FIRST LEAGUE
-#EXTVLCOPT:http-referrer=https://xl365.scorecastbytextz.com/ajax/chanel/type/8/link/channel18/off-tvc?is_off_add=false
-https://live2.livefeedtextbox.com/live/channel17.m3u8
 
 
 
