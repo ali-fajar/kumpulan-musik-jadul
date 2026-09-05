@@ -652,6 +652,58 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 
 ========================================LIVE HARI INI==========================================================
 
+
+#EXTINF:-1 tvg-chno="268" tvg-id="Soccer.Dummy.us" tvg-name="[MLS League] New York City vs Nashville SC (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="LIVE HARI INI",[MLS League] New York City vs Nashville SC (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://193.47.62.41/hls/VIIIAAAAAAA.m3u8
+
+#EXTINF:-1 tvg-chno="269" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] NYCFC vs Nashville SC (WATCHFTY)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="LIVE HARI INI",[MLS] NYCFC vs Nashville SC (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/5071321/new-york-city-fc-nashville-sc/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-origin=https://sportsembed.su/embed/5071321/new-york-city-fc-nashville-sc/pro/1?player=clappr&autoplay=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb6.wfty.st/secure/NsYm91cVQuZ5GlQ6vEn2vg/pro/new-york-city-fc-nashville-sc/1/5071321/1788588057/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="270" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] Nashville SC vs New York City FC (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/soccer_nashville-sc-vs-new-york-city-fc_Nashville_SC_vs_New_York_City_" group-title="LIVE HARI INI",[MLS] Nashville SC vs New York City FC (STRMFREE)
+#EXTVLCOPT:http-referrer=https://strmfree.st
+#EXTVLCOPT:http-origin=https://strmfree.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://strmfree.st/live-cdn/nashville-sc-vs-new-york-city-fc1080p/index.m3u8?_e=1788593446&_n=f6b70e5614a613d3&_t=gOE5pk91HP3t5h0bDOjmUg
+
+#EXTINF:-1 tvg-chno="271" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York City FC vs Nashville SC (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="LIVE HARI INI",[MLS] New York City FC vs Nashville SC (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55779?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55779?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/55779/load-playlist
+
+#EXTINF:-1 tvg-chno="272" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York City FC vs. Nashville SC (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/00a1e9a6adbf5d183eaad0a6dc068a4c-thumbnail.jpg" group-title="LIVE HARI INI",[MLS] New York City FC vs. Nashville SC (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=mls/2026-09-04/nyc-nsh
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=mls/2026-09-04/nyc-nsh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/mls/2026-09-04/nyc-nsh/playlist.m3u8?tk=Nwjs0euq3qlntBZXREjpZw&e=1788606047
+
+#EXTINF:-1 tvg-chno="273" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York City vs Nashville SC 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="LIVE HARI INI",[MLS] New York City vs Nashville SC 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=mls1es
+#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=mls1es
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://47.domhsd.com:443/global/mls1es/index.m3u8?token=bc81befdbab66baede3c7254280db467060504d2-b2-1788607846-1788553846
+
+#EXTINF:-1 tvg-chno="274" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York City vs Nashville SC | Apple TV (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="LIVE HARI INI",[MLS] New York City vs Nashville SC | Apple TV (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=appletv1
+#EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=appletv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://khala.futlivehd.com/global/appletv1/index.m3u8?token=c94b11b11995154329a9bb2cc298769b2757dbe1-88-1788607853-1788553853
+
+#EXTINF:-1 tvg-chno="275" tvg-id="Soccer.Dummy.us" tvg-name="[MLS] New York City vs Nashville SC | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/19.png" group-title="LIVE HARI INI",[MLS] New York City vs Nashville SC | Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=mls1es
+#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=mls1es
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://bgvnzw5k.fubo18.com:443/mls1es/mono.m3u8?token=8e2b7e4b4ab8d1910d1f263c8399d81ded69ed7b-49-1788583546-1788565546
+
+
+
+
 #EXTINF:-1 tvg-id="ENG LC" group-title="LIVE HARI INI" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/x1va771565372556.png", 01;30 WIB - CHELSEA VS LUTON TOWN |EFL CARABAO CUP INGGRIS
 #EXTVLCOPT:http-referrer=https://xl365.livecarriercdn.com/ajax/chanel/type/8/link/channel5/off-tvc?is_off_add=false
 https://live2.playlistedgecdn.com/live/channel5.m3u8
