@@ -5273,19 +5273,19 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/205.drm
 #https://maling.pl/205.mpd
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BALI VS SLEMAN
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSITA VS PS JOGJA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=016752bac004de54b7f7c6a5d037f4ec:c9c06ffb6f160e38305fa87ded56b761
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22207/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1788536273~acl=%2fstream%2f22207%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=dc77d7990e09804f30bce022d2a12ab328ae227f4199cbc721967e4e1e89226d
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSEBAYA VS PERSIK
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSIK VS DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=520a181530afd945b814e3b709f12a53:a98ea7ec85b79edf82e0b2b324301f64
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/21482/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1779541252~acl=%2fstream%2f21482%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21482%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21482%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21482%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21482%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=c5f5ae99d6fe6eb74bca56dafe72b178cdc184b31593803acba00028a7967dc3
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSIB VS PERSIJAP
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BHAYANGKARA VS PERSEBAYA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b161cfd41e769de17d4d05fa1bc550ee:e42c45e513b5e4759dce9d6255574b6a
