@@ -5357,24 +5357,28 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSITA VS PS JOGJA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=016752bac004de54b7f7c6a5d037f4ec:c9c06ffb6f160e38305fa87ded56b761
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22207/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1788611580~acl=%2fstream%2f22207%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=b107758b03bb88d9f2d3a27fb6a51df8beccd69a7c06200d121539e3a97e5c8e
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSIK VS DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221aba545721f50e505c6cb14721eea2:35298118bcf0df414a2160d607fe5ea4
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22204/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1788612140~acl=%2fstream%2f22204%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f22204%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f22204%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f22204%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f22204%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f22204%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=cdaf52001d85aad14bbc489275dfef802f804a0585100a853c3119650cf4dc15
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BHAYANGKARA VS PERSEBAYA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=275ccec7bcff2d3d272e81ff71fa7214:e44f86cbe4cdc69cd74218526dae17fd
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1779537321~acl=%2fstream%2f19354%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19354%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=750aef63359c5855d873562bcde67c17ffb99972349a3baf4c5eeac9810324ab
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSITA VS PERSIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb336636230208f90b2b7a3b5ee742d8:5821acf3d53ba5e59602d840b03896eb
 https://tencent-1.vidiostream.com/wmt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IiIsImV4cCI6MTc4MDEzMTIzNSwiZnJhZ2R1cmF0aW9uIjoyMDAwLCJpYXQiOjE3Nzk1MjY0MzUsIm5iZiI6MTc3OTUyNjQzNSwidHh3bXZlciI6MSwid21wYXQiOiJvRit1SlFRPSIsIndtcGF0Zm10IjoiYmFzZTY0Iiwid21wYXRsZW4iOjQwfQ.KDDapaJeIrO3HJn-5nu3xOjl9-18odCtXCM68_QPPNE/live/tencent-1/main.m3u8
