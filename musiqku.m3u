@@ -6211,6 +6211,24 @@ https://ondemand.st/papi/tv/dlhd/466/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://ondemand.st/papi/tv/dlhd/467/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
 
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",ELEVEN 1 POL HD
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://ondemand.st/papi/tv/dlhd/71/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",ELEVEN 2 POL HD
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://ondemand.st/papi/tv/dlhd/72/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",ELEVEN 3 POL HD
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://ondemand.st/papi/tv/dlhd/428/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png",BEIN SPORTS 1 EN HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1313537.m3u8
 
