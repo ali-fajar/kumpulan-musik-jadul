@@ -6081,7 +6081,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=futsal2&type=m3u8
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://ondemand.st/papi/tv/dlhd/134/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+#https://ondemand.st/papi/tv/dlhd/134/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/559016.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM2.png",ARENA SPORT 2 PREMIUM HD
 #EXTVLCOPT:http-referrer=https://ondemand.st/
