@@ -6073,13 +6073,22 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=futsal2&type=m3u8
 ========================================SPORT FORSAT==================================================
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM1.png",ARENA SPORT 1 PREMIUM HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31599/index.m3u8
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://ondemand.st/papi/tv/dlhd/134/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM2.png",ARENA SPORT 2 PREMIUM HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31600/index.m3u8
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://ondemand.st/papi/tv/dlhd/135/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM3.png",ARENA SPORT 3 PREMIUM HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31601/index.m3u8
+#EXTVLCOPT:http-referrer=https://ondemand.st/
+#EXTVLCOPT:http-origin=https://ondemand.st
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://ondemand.st/papi/tv/dlhd/136/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/logos/1910881.png",ARENA SPORT 4 PREMIUM HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1910881.m3u8
