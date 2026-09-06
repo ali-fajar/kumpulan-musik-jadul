@@ -5101,7 +5101,7 @@ http://tv.cloudcdn.me/live.ts?channelId=133044&uid=10223&deviceMac=00:1A:79:07:0
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5fc1c84d88fe2_SWyt-480x320.jpg", ASTRO BOO
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#https://rakyattv.my.id/donate/stream.php/.m3u8?id=boo
+http://tv.cloudcdn.me/live.ts?channelId=133064&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
@@ -5137,7 +5137,7 @@ http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:0
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/64d7ad1693676_j0VJ-480x320.png", ASTRO CITRA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#https://rakyattv.my.id/donate/stream.php/.m3u8?id=citra
+http://tv.cloudcdn.me/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5b051150ecc8f_99zC-480x320.png", ASTRO PRIMA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
