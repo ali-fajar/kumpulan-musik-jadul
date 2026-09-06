@@ -668,11 +668,11 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=21593&type=drm
 #https://tvratu.my.id/vid/index.mpd?id=21593&type=dash
 
-#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/g4v6UKDmeQIegZcuUUBkD5hQSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160494/f59c83.jpg" group-title="TIMNAS", INDONESIA VS MALAYSIA U17
+#EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/g4v6UKDmeQIegZcuUUBkD5hQSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160494/f59c83.jpg" group-title="TIMNAS", AUSTRALIA VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99ca8f93a10a1c0a683d951776615ba7:cc119eef9daef20183fee47af1a837c1
+#KODIPROP:inputstream.adaptive.license_key=3416241e7dfcbb1c4a8ddecaad43caac:2ef8c9798a68f56058ebbca677ef5a72
 #https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783443496~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=00e957008e753341d090b76fae2e4faf82aed5a21356e6e2af4f45c4f8272131
 https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/22157/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1788706981~acl=%2fstream%2f22157%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f22157%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f22157%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f22157%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f22157%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f22157%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=22c3e26d7fe75c0dfc7359d0e9866743005533e847578375558765d235c3cc1a
 
@@ -708,7 +708,7 @@ https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/22157/res=108
 EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99ca8f93a10a1c0a683d951776615ba7:cc119eef9daef20183fee47af1a837c1
-#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783443496~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=00e957008e753341d090b76fae2e4faf82aed5a21356e6e2af4f45c4f8272131
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/21746/res=720p/file/drm/dash/stream.mpd?hdntl=exp=1783443496~acl=%2fstream%2f21746%2fres%3d720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f21746%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=69578335~data=hdntl~hmac=00e957008e753341d090b76fae2e4faf82aed5a21356e6e2af4f45c4f8272131
 
 
 
