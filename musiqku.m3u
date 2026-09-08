@@ -2312,6 +2312,31 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/hbomax.png", HBO MAX ON-DEMAND 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569126.m3u8
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/hbomax.png", HBO MAX ON-DEMAND 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569125.m3u8
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/hbomax.png", HBO MAX ON-DEMAND 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569124.m3u8
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/hbomax.png", HBO MAX ON-DEMAND 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569123.m3u8
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/hbomax.png", HBO MAX ON-DEMAND 5 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569122.m3u8
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Hulu_Logo.svg.png", HULU ORIGINALS 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569108.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Hulu_Logo.svg.png", HULU ORIGINALS 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569107.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Hulu_Logo.svg.png", HULU ORIGINALS 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569106.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Hulu_Logo.svg.png", HULU ORIGINALS 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569105.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Hulu_Logo.svg.png", HULU ORIGINALS 5 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569104.m3u8
 
 #EXTINF:-1 tvg-id="Hbo romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/64/HBO_%282016-.n.v.%29.png/revision/latest?cb=20171126141416" group-title="HBO GROUP" , HBO ROM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
