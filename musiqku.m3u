@@ -651,6 +651,68 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 
 
 
+#EXTGRP:Argentina Liga Profesional
+#EXTINF:-1 tvg-id="Union_de_Santa_Fe_vs_Instituto" tvg-name="Union de Santa Fe vs Instituto" tvg-logo="https://pbs.twimg.com/profile_images/1788917844987596800/smSNUUNt_400x400.jpg" group-title="LIVE FORSAT",Union de Santa Fe vs Instituto [9:15 PM ET]
+http://193.47.62.41/hls/HAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Brazil Serie A
+#EXTINF:-1 tvg-id="Vitoria_vs_Gremio" tvg-name="Vitoria vs Gremio" tvg-logo="https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg" group-title="LIVE FORSAT",Vitoria vs Gremio [8:00 PM ET]
+http://193.47.62.41/hls/doooA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:CFL Canadian Football
+#EXTINF:-1 tvg-id="Calgary_Stampeders_vs_Edmonton_Elks" tvg-name="Calgary Stampeders vs Edmonton Elks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/CFL_2016_logo.svg" group-title="LIVE FORSAT",Calgary Stampeders vs Edmonton Elks [7:00 PM ET]
+http://193.47.62.41/hls/ccccc.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Chile Liga de Primera
+#EXTINF:-1 tvg-id="Limache_vs_Cobresal" tvg-name="Limache vs Cobresal" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="LIVE FORSAT",Limache vs Cobresal [8:00 PM ET]
+http://193.47.62.41/hls/dooo.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Colombia Copa
+#EXTINF:-1 tvg-id="Atl_Nacional_vs_Dep_Cali" tvg-name="Atl Nacional vs Dep Cali" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="LIVE FORSAT",Atl Nacional vs Dep Cali [10:15 PM ET]
+http://193.47.62.41/hls/doooAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Colombia Primera A
+#EXTINF:-1 tvg-id="Llaneros_vs_Deportes_Tolima" tvg-name="Llaneros vs Deportes Tolima" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="LIVE FORSAT",Llaneros vs Deportes Tolima [8:00 PM ET]
+http://193.47.62.41/hls/doooAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Ecuador Liga Pro
+#EXTINF:-1 tvg-id="Emelec_vs_Manta" tvg-name="Emelec vs Manta" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="LIVE FORSAT",Emelec vs Manta [9:00 PM ET]
+http://193.47.62.41/hls/doooAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Mushuc_Runa_vs_Leones_del_Norte" tvg-name="Mushuc Runa vs Leones del Norte" tvg-logo="https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg" group-title="LIVE FORSAT",Mushuc Runa vs Leones del Norte [9:00 PM ET]
+http://193.47.62.41/hls/doooAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:MLB Baseball
+#EXTINF:-1 tvg-id="San_Francisco_Giants_vs_St_Louis_Cardinals" tvg-name="San Francisco Giants vs St Louis Cardinals" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE FORSAT",San Francisco Giants vs St Louis Cardinals [9:10 PM ET]
+http://193.47.62.41/hls/HAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Los_Angeles_Dodgers_vs_Cincinnati_Reds" tvg-name="Los Angeles Dodgers vs Cincinnati Reds" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE FORSAT",Los Angeles Dodgers vs Cincinnati Reds [10:10 PM ET]
+http://193.47.62.41/hls/HAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Athletics_vs_Toronto_Blue_Jays" tvg-name="Athletics vs Toronto Blue Jays" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE FORSAT",Athletics vs Toronto Blue Jays [11:05 PM ET]
+http://193.47.62.41/hls/HAAAAQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NCAA American Football
+#EXTINF:-1 tvg-id="Florida_State_vs_Southern_Methodist" tvg-name="Florida State vs Southern Methodist" tvg-logo="https://pbs.twimg.com/profile_images/1425944292317704200/ST3crOq2_400x400.jpg" group-title="LIVE FORSAT",Florida State vs Southern Methodist [8:30 PM ET]
+http://193.47.62.41/hls/doooAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Tennis --:--
+#EXTINF:-1 tvg-id="Tennis_US_Open___CH_2" tvg-name="Tennis US Open - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="LIVE FORSAT",Tennis US Open - CH 2 [TBD]
+http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_US_Open___CH_3" tvg-name="Tennis US Open - CH 3" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="LIVE FORSAT",Tennis US Open - CH 3 [TBD]
+http://193.47.62.41/hls/FHHHQQQQQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tennis_US_Open___CH_1" tvg-name="Tennis US Open - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2072228148691746816/fZyPXm9V_400x400.jpg" group-title="LIVE FORSAT",Tennis US Open - CH 1 [TBD]
+http://193.47.62.190/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:WWE Wrestling
+#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___SD" tvg-name="WWE Monday Night RAW - SD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="LIVE FORSAT",WWE Monday Night RAW - SD [9:00 PM ET]
+http://193.47.62.55/hls/JDDD.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="WWE_Monday_Night_RAW___HD" tvg-name="WWE Monday Night RAW - HD" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="LIVE FORSAT",WWE Monday Night RAW - HD [9:00 PM ET]
+http://193.47.62.55/hls/JDDDX.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
 
 
 
