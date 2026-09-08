@@ -2215,7 +2215,8 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 #http://gvisiontv.channell.my.id/ch/ph/hbo.php/.mpd
-http://ikitv.sqn.at:8000/play/a024/index.m3u8
+#http://ikitv.sqn.at:8000/play/a024/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132161&uid=10223&deviceMac=00:1A:79:07:07:43
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s" group-title="HBO GROUP",HBO HITS INDI
@@ -2226,13 +2227,15 @@ http://ikitv.sqn.at:8000/play/a024/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855665.m3u8
+#https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855665.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="Hbo family" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png" group-title="HBO GROUP",HBO FAMILY INDI
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=106
+#http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=106
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115" group-title="HBO GROUP",HBO SIGNATURE INDI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2242,7 +2245,8 @@ http://gvisiontv.channell.my.id/ch/th/th1.php/.mpd?=106
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855668.m3u8
+#https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855668.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cJbdKf_BbwC9Q1V0rXAxmavdau1-hILuRA&s" group-title="HBO GROUP", CINEMAX INDI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
