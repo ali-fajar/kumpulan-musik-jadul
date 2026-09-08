@@ -2338,6 +2338,27 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Hulu_Logo.svg.png", HULU ORIGINALS 5 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569104.m3u8
 
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/paramountplus.png", PARAMOUNT+ ON-DEMAND 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569158.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/paramountplus.png", PARAMOUNT+ ON-DEMAND 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569157.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/paramountplus.png", PARAMOUNT+ ON-DEMAND 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569156.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/paramountplus.png", PARAMOUNT+ ON-DEMAND 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569155.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/paramountplus.png", PARAMOUNT+ ON-DEMAND 5 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569154.m3u8
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/apple-tv.png", APPLE TV+ SERIES 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569191.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/apple-tv.png", APPLE TV+ SERIES 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569190.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/apple-tv.png", APPLE TV+ SERIES 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569189.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/apple-tv.png", APPLE TV+ SERIES 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569188.m3u8
+
+
 #EXTINF:-1 tvg-id="Hbo romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/64/HBO_%282016-.n.v.%29.png/revision/latest?cb=20171126141416" group-title="HBO GROUP" , HBO ROM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
