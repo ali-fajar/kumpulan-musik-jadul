@@ -5628,7 +5628,27 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl9&type=m3u8
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl10&type=m3u8
 
-KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png", PREMIER LEAGUE REPLAY 1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/830115.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png", PREMIER LEAGUE REPLAY 2
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/830114.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png", PREMIER LEAGUE REPLAY 3
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/830113.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png", PREMIER LEAGUE REPLAY 4
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/830112.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png", PREMIER LEAGUE REPLAY 5
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/830111.m3u8
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="http://picon.tivi-ott.net:25461/picon/EVENT/PL.png", PREMIER LEAGUE REPLAY 6
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/830110.m3u8
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
@@ -5700,55 +5720,7 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium595
-#http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb06134.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-#https://looooooool.footfast.net/event/595.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3774467bf77893b5a4895b363fd64c3:79f8e69317e4c13bd9667e2f43a6c60d
-#https://optus.apigateway.web.id/optus/v7/OptusSport4/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=446084cc113687c9e4bec85890096589:e8c57936c8137bf7c0060f21c1dbe999
-#https://optus.apigateway.web.id/optus/v7/OptusSport5/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bc0ea19e2427776032e782e62d7dfc:816033a4ba5e1484866768c4c1edb9e7
-#https://optus.apigateway.web.id/optus/v7/OptusSport6/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b70ffd90c21839cff64da347ff65a42:944a0a3f8a7475ec9ed79caa57a241a2
-#https://optus.apigateway.web.id/optus/v7/OptusSport7/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4fc592480df393a038be32d137d991ef:47809adce3b46ae03f652bf18ed81b40
-#https://optus.apigateway.web.id/optus/v7/OptusSport8/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94bd14876689a529516017e35638d51a:32b1813bc43d17d6623a306a9513bb7a
-#https://optus.apigateway.web.id/optus/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
-
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png" group-title="LIGA INGGRIS",SKY NZ8
-#https://7pal.short.gy/skyspt8nz
 
 
 =====================================LIGA SPANYOL==========================================================================
