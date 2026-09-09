@@ -112,13 +112,10 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=6
 
 
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=be13e795b7e14b4b8f309a0d97041967:cd422725a8764a6d9dfe7a950b5a8733
-#http://ikitv.sqn.at:8000/play/a019/index.m3u8
-https://live.eu-north-1a.cf.dmcdn.net/sec2(h7jFi-lyhHGtdjIDxMLZv2yVl7Vk707F6bghF70WHp08HAf5HZW3rII43mPWUJzEmZnEYFfMRaWZORFZ60PaUrNObOsszNsr5cNEULVYdtF_TtwOBKe7ZbTJ_1oC8jB1)/dm/3/x8qckyq/d/live-720.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-origin=https://20.detik.com
+https://live.eu-north-1a.cf.dmcdn.net/sec2(2bAQLXpunfFOXZNU-BLwV_SuEcU8316OTacRT2ru9feO68SWloj9sUD-GRTF8OJtSA8fy0z_U56eWm0obLgq-sqkNE3bqmmgvaAGTQlH38YtwbJDRJW6odbvSIOy2jx7)/dm/3/x8qckyq/d/live-720.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/30/Trans-7-1341636338.jpeg" group-title="NASIONAL", Trans 7 HD
