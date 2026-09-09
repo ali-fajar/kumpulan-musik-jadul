@@ -5940,17 +5940,17 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=mls4&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mls5&type=m3u8
 
 
-#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", MLS  01
+#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", APPLE  01
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861596.m3u8
-#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", MLS  02
+#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", APPLE  02
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861597.m3u8
-#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", MLS  03
+#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", APPLE  03
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861598.m3u8
-#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", MLS  04
+#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", APPLE  04
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861599.m3u8
-#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", MLS  05
+#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", APPLE  05
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861600.m3u8
-#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", ⁨MLS  06
+#EXTINF:-1 group-title="MLS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MLS/MLS.png", ⁨APPLE  06
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/861601.m3u8
 
 =========================================== UFC/MMA ==============================================================================
