@@ -6178,18 +6178,20 @@ https://ondemand.st/papi/tv/dlhd/136/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/logos/1910881.png",ARENA SPORT 4 PREMIUM HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/1910881.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT1.png",ARENA SPORT 1 HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31602/index.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ARENA SPORT 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1115.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT2.png",ARENA SPORT 2 HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7264/index.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ARENA SPORT 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1114.m3u8
 
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ARENA SPORT 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1113.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT3.png",ARENA SPORT 3 HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31603/index.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ARENA SPORT 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1112.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORT4.png",ARENA SPORT 4 HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/31604/index.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ARENA SPORT 5 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1111.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",BEIN SPORTS 1 UHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798772.m3u8
@@ -6329,18 +6331,20 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",NOVA SPORTS 2 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1878.m3u8
 
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1108.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",SPORT KLUB 1 HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7269/index.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1107.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",SPORT KLUB 2 HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7270/index.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1106.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",SPORT KLUB 3 HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7271/index.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1105.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/SPORTKLUB.png",SPORT KLUB 4 FHD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/7272/index.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 5 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1104.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png",STAR SPORTS SELECT 1 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/373202.m3u8
@@ -6354,7 +6358,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png",HUB PREMIER 2 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314078.m3u8
 
-#EXTINF:-1 group-title="SPORTS FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png",HUB PREMIER 3 FHD
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png",HUB PREMIER 3 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314079.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png",HUB PREMIER 4 FHD
