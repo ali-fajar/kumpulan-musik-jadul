@@ -5586,33 +5586,16 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl5&type=m3u8
 #https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
-
-#EXTINF:-1 tvg-id="Premier Sports 1" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/236/2025/07/08/Screenshot_2025-07-08-21-24-38-591_comandroidchrome-edit-2771144855.jpg" group-title="UCL", UCL 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#https://v4-a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4947178.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b2c6fada637e8c9d8b8d5abc05663e48
-
-
-#EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/236/2025/07/08/Screenshot_2025-07-08-21-24-38-591_comandroidchrome-edit-2771144855.jpg" group-title="UCL", UCL 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-$https://v4-a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4947134.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9dddbaaf5ac694c39a5805f2ee480297
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="UCL", UCL 8
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-#https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/236/2025/07/08/Screenshot_2025-07-08-21-24-38-591_comandroidchrome-edit-2771144855.jpg" group-title="UCL", UCL 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#https://v4-78db6781fe37bdefc00c3c6eecf7706a.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4947101.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8d2dd7c85a45e7f3061fc587f914dc2f
+#EXTINF:-1 group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", ┃UCL┃ TNT SPORTS 1 HD [UK]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894977.m3u8
+#EXTINF:-1 group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", ┃UCL┃ TNT SPORTS 2 HD [UK]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894978.m3u8
+#EXTINF:-1 group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", ┃UCL┃ TNT SPORTS 3 HD [UK]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894979.m3u8
+#EXTINF:-1 group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", ┃UCL┃ TNT SPORTS 4 HD [UK]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894980.m3u8
+#EXTINF:-1 group-title="UCL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png", ┃UCL┃ TNT SPORTS 5 HD [UK]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/894981.m3u8
 
 
 
