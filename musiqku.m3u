@@ -6348,24 +6348,16 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png",HUB PREMIER 4 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1314080.m3u8
 
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png",TSN 1 HD
-http://1f93dd99.cbilant.com/iptv/FM2YENVSTBPDB8TVMWRDHWGP/6521/index.m3u8
-
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png",TSN 2 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/177345.m3u8
-
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png",TSN 3 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/177346.m3u8
-
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png",TSN 4 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/177347.m3u8
-
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png",TSN 5 HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/177348.m3u8
-
-#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/CANADA/950327.png",ONE SOCCER HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/950327.m3u8
-
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/941919.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/941920.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 3 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/941921.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 4 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/941922.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 5 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/941923.m3u8
 
 ========================================F1========================================================
 
