@@ -42,7 +42,7 @@ http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1789129693~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=227701017~data=hdntl~hmac=d3615cbaa813566b13c7fad1be9dbdd6c8cdeb44593e915c2914dbcc324d748e
-https://cdna.rkda.my.id/memfs/3897b566-43d7-4f1e-862b-1aa22932504a_output_0.m3u8?session=Sps3TV9yoxWbmU334xxbw6
+http://ktpremium.world:2095/LT8011/827317/73617
 
 
 #EXTINF:-1 tvg-id="indosiar" group-title="NASIONAL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", INDOSIAR HD
