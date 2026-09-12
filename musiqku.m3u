@@ -2371,6 +2371,18 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/569188.m3u8
 
 
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK CHANNEL.png", HALLMARK CHANNEL HD [EAST]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899582.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK CHANNEL.png", HALLMARK CHANNEL HD [WEST]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899577.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK MOVIES MYSTERIES.png", HALLMARK MOVIES MYSTERIES HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899584.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK DRAMA.png", HALLMARK DRAMA HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899583.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK MOVIES & MORE.png", HALLMARK MOVIES & MORE HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899578.m3u8
+
+
 #EXTINF:-1 tvg-id="Hbo romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/64/HBO_%282016-.n.v.%29.png/revision/latest?cb=20171126141416" group-title="HBO GROUP" , HBO ROM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
