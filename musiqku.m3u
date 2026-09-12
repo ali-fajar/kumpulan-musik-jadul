@@ -6514,6 +6514,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 =========================================== SPORTS======================================================
 
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png", AL KASS 1 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/712436.m3u8
 
@@ -6528,6 +6529,18 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/alkaas.png", AL KASS 5 HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/712440.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png", STARZPLAY AD SPORTS 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/712415.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png", STARZPLAY AD SPORTS 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/712417.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png", STARZPLAY AD SPORTS PREMIUM 1 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/712419.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/STARZPLAY/STARZPLAY.png", STARZPLAY AD SPORTS PREMIUM 2 HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/712421.m3u8
 
 #EXTINF:-1 tvg-id="9c354ad6-3efc-4e4d-9cd8-3584bcc9c315" tvg-name="Fast 1 Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIACfTgwYFPkOFcGC5CbAB9qPLd-oCMjMoId0jSfVQ_gDi4mZU95ytxPXf&s=10" group-title="SPORTS", FAST SPORTS 1
 #https://cdn3.skygo.mn/live/disk1/SPSPrime/STRM-CH2-1/SPSPrime.mpd
