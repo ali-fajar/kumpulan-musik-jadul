@@ -4807,12 +4807,12 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/205.drm
 #https://maling.pl/205.mpd
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", GARUDAYAKSA VS PERSIK
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PSM VS AREMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1789129693~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=227701017~data=hdntl~hmac=d3615cbaa813566b13c7fad1be9dbdd6c8cdeb44593e915c2914dbcc324d748e
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22207/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1789300672~acl=%2fstream%2f22207%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=210847022~data=hdntl~hmac=957f30757cd3292298c36b70d8bb5de5b77230feaf66ba980a69c0f57768c834
 https://ogietv.biz.id:443/Livetv/234/1327.ts
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSIK VS DEWA UNITED
