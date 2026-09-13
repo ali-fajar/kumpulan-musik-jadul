@@ -1799,6 +1799,45 @@ https://wildearth-xumo.amagi.tv/masterR216p.m3u8
 
 ===============================MOVIES======================================================
 
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ RAMBO HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15497.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ ROCKY HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15495.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ THE HOBBIT HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15491.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ BIOSCOOP HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15490.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ JAWS HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/243918.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ POLICE ACADEMY HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/243917.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ BUD SPENCER HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15472.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ ESCAPE ROOM HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15474.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ WESLEY SNIPES HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15500.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ BOLLYWOOD HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15496.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ BRUCE LEE HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/243919.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ SCARY MOVIE HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15492.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ DEATH RACE HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15489.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ FRIDAY THE 13TH
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15488.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ X-MEN HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15487.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ HARRY POTTER HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/15486.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="AXN - [Channel 154].id" tvg-name="AXN" tvg-logo="https://i.ibb.co.com/f9XVz9j/axn.png" group-title="MOVIES", AXN
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
