@@ -42,7 +42,7 @@ http://livestream.biznetvideo.net/indosiar/smil:indosiar.smil/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/205/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1789129693~acl=%2fstream%2f205%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f205%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=227701017~data=hdntl~hmac=d3615cbaa813566b13c7fad1be9dbdd6c8cdeb44593e915c2914dbcc324d748e
-http://ktpremium.world:2095/LT8011/827317/73617
+https://ogietv.biz.id:443/Livetv/234/1327.ts
 
 
 #EXTINF:-1 tvg-id="indosiar" group-title="NASIONAL" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", INDOSIAR HD
@@ -4807,7 +4807,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://maling.pl/205.drm
 #https://maling.pl/205.mpd
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PSM VS AREMA
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSEBAYA VS PSIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4838,17 +4838,17 @@ http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZ0x0ZXFPbysvMVBvYjc1eXFMemc1a3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb336636230208f90b2b7a3b5ee742d8:5821acf3d53ba5e59602d840b03896eb
 #https://tencent-1.vidiostream.com/wmt:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NUb2tlblNlc3Npb25JZCI6IiIsImV4cCI6MTc4MDEzMTIzNSwiZnJhZ2R1cmF0aW9uIjoyMDAwLCJpYXQiOjE3Nzk1MjY0MzUsIm5iZiI6MTc3OTUyNjQzNSwidHh3bXZlciI6MSwid21wYXQiOiJvRit1SlFRPSIsIndtcGF0Zm10IjoiYmFzZTY0Iiwid21wYXRsZW4iOjQwfQ.KDDapaJeIrO3HJn-5nu3xOjl9-18odCtXCM68_QPPNE/live/tencent-1/main.m3u8
-http://ktpremium.world:2095/LT8011/827317/73617
+#http://ktpremium.world:2095/LT8011/827317/73617
 
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 1 PERSIB VS PERSIJA
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 1 PERSEBAYA VS PSIM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://lxscore.com
 #EXTVLCOPT:http-referrer=https://lxscore.com/
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=live4&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bri1&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 2 SLEMAN VS MADURA
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://lxscore.com
 #EXTVLCOPT:http-referrer=https://lxscore.com/
