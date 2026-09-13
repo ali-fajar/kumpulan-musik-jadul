@@ -656,29 +656,17 @@ https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?st=DozaoTe9fvn8FngwcqZhmstO1BEEv
 #EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="SV Elversbergvs.Bayern Munich | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", SV Elversbergvs.Bayern Munich | English
 https://edgestream5.pro/hls/ueyeztrazb4.m3u8?st=tkQ1237e4Y1gNU6_O0VWPEwYR2mQXdrdXxYnGj3ObqI&e=1789301501|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
+#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="Getafevs.Deportivo | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Getafevs.Deportivo | English
+https://edgestream2.pro/hls/377qj1h2727.m3u8?st=LV1i866O_4kF7_8-RSVCai1wSHSIXIX6vcUZ-EzdS6o&e=1789301504|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="Brestvs.Paris Saint-Germain | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Brestvs.Paris Saint-Germain | English
+https://edgestream2.pro/hls/dza5z8f69.m3u8?st=NuqwGsrG7n8Yq5jLhc9FuuBXgA-RncmsHdQ7uaPEtO4&e=1789301507|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+
+#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="Real Sociedadvs.Atlético Madrid | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Real Sociedadvs.Atlético Madrid | English
+https://edgestream2.pro/hls/377qj1h2727.m3u8?st=mU2syMZA7Cf0I9u6jElfWjPZ1450JKGaBwYoZ_pAh2U&e=1789301509|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
 
 
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Bournemouth vs Brentford - Sepember 12, 2026 7:00 AM EST
-https://admin2.formaturamaxi.com.br/main.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Bournemouth vs Brentford - Sepember 12, 2026 7:00 AM EST (Stream 2)
-https://tedesco.formaturamaxi.com.br/alt.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Chelsea vs Hull - Sepember 12, 2026 7:00 AM EST
-https://admin2.formaturamaxi.com.br/usa.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Chelsea vs Hull - Sepember 12, 2026 7:00 AM EST (Stream 2)
-https://admin2.formaturamaxi.com.br/tele.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Crystal Palace vs Ipswich - Sepember 12, 2026 7:00 AM EST
-https://admin.formaturamaxi.com.br/fanapt.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 
 
