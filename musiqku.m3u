@@ -5891,6 +5891,25 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=voly3&type=m3u8
 #EXTINF:-1 group-title="LIVE VOLLY" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ POLSAT SPORT/POLSAT SPORT 1.png",  POLSAT SPORT 1 FHD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1729162.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0l_fI69c5ErkLv7Y-wFxkzqCowcak-dkdoKW-0i1R0hhfSzuaMxRw6vI&s=10" group-title="LIVE VOLLY", LIVE VOLLEY ONLY
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com
+#EXTVLCOPT:http-origin=https://xlz.textliveupdaterz.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel80.m3u8
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel81.m3u8
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel82.m3u8
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel83.m3u8
+https://tfqv3gr5dgmttgha1hcto8yzdncbafisg17ufgrz8yhuxgjtse5ucpf5gk.100ycdn.com/live1.quickscoreboardz.com/live/channel84.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1XRJxlnaqk7npLH1co4BRc4a5ARj2tQDP0EDbKWbkriQf9ahbqwg3c4M&s=10" group-title="LIVE VOLLY", VOLI DUNIA
+#EXTVLCOPT:http-referrer=https://mahsunsports.xyz/
+#EXTVLCOPT:http-origin=https://mahsunsports.xyz/
+https://andro.evrenesoglu57.click/checklist/androstreamlivess1.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamlivess2.m3u8
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrtsy.m3u8
+
+
 =========================================== SPORTS======================================================
 
 
