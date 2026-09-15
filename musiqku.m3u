@@ -646,29 +646,29 @@ https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.m
 
 
 
-#EXTINF:-1 tvg-chno="15" tvg-id="Soccer.Dummy.us" tvg-name="Lillevs.Troyes | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Lillevs.Troyes | English
-https://edgestream2.pro/hls/dza5z8f69.m3u8?st=0X0AozxNPi3V9Uu1cVSx-sHvglp2_cQpEEVxACgCfEk&e=1789301491|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="Genoavs.Sudtirol | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Genoavs.Sudtirol | English
+https://edgestream2.pro/hls/syaLqucEne4k.m3u8?st=6EdmnansyfBSBiQGuUDZ9T-bC8xJViTX6wneksRd8zE&e=1789469240|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-chno="16" tvg-id="Soccer.Dummy.us" tvg-name="Levantevs.Barcelona | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Levantevs.Barcelona | English
-https://edgestream5.pro/hls/377qj1h2727.m3u8?st=W5VhRPddC46uDD5axJHP9uW2LEUrxuVa19pGF5pyQLs&e=1789301494|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="Rayo Vallecanovs.Espanyol | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Rayo Vallecanovs.Espanyol | English
+https://edgestream2.pro/hls/377qj1h2727.m3u8?st=Bp38KULJAjUEv8wAI7WEiZyu8o5IADNmGyh7QqbwMP0&e=1789469243|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-chno="17" tvg-id="Soccer.Dummy.us" tvg-name="Le Mansvs.Lens | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Le Mansvs.Lens | English
-https://edgestream2.pro/hls/dza5z8f69.m3u8?st=0vlst4a5jYzqjjEDsI1n0rPItYRzO3o5IpdvX8-xUdY&e=1789301496|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="Alavésvs.Valencia | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Alavésvs.Valencia | English
+https://edgestream1.pro/hls/griogoehvn2.m3u8?st=KIIK3VGLBjp2bBqTfIEV6C4ztAoUFLhRuHz4RE7IyJU&e=1789469245|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.Dummy.us" tvg-name="Manchester Unitedvs.Manchester City | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Manchester Unitedvs.Manchester City | English
-https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?st=DozaoTe9fvn8FngwcqZhmstO1BEEvsEFmqbZhr4_fjE&e=1789301499|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="West Ham Unitedvs.Fulham | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", West Ham Unitedvs.Fulham | English
+https://edgestream6.pro/hls/sqdahach1ax.m3u8?st=FjPxZ613Tn9autjzo5pwKbZud-cG4_NRGoXhyfVSn98&e=1789469249|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="SV Elversbergvs.Bayern Munich | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", SV Elversbergvs.Bayern Munich | English
-https://edgestream5.pro/hls/ueyeztrazb4.m3u8?st=tkQ1237e4Y1gNU6_O0VWPEwYR2mQXdrdXxYnGj3ObqI&e=1789301501|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="Liverpoolvs.Tottenham Hotspur | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Liverpoolvs.Tottenham Hotspur | English
+https://edgestream5.pro/hls/eJmauBDCIf.m3u8?st=ycGCcmpvIy5DdMASaQ2nfjVvXJ-QNDRCVXkIGYa5Kus&e=1789469251|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="Getafevs.Deportivo | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Getafevs.Deportivo | English
-https://edgestream2.pro/hls/377qj1h2727.m3u8?st=LV1i866O_4kF7_8-RSVCai1wSHSIXIX6vcUZ-EzdS6o&e=1789301504|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="Ipswich Townvs.Arsenal | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Ipswich Townvs.Arsenal | English
+https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8?st=nx2yTH3lGpThLqNzqPrEeH3mcy7exopm0SjlMI4l6_s&e=1789469254|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="Brestvs.Paris Saint-Germain | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Brestvs.Paris Saint-Germain | English
-https://edgestream2.pro/hls/dza5z8f69.m3u8?st=NuqwGsrG7n8Yq5jLhc9FuuBXgA-RncmsHdQ7uaPEtO4&e=1789301507|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="Readingvs.Brentford | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Readingvs.Brentford | English
+https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?st=3gmM9Erqo55mvBJu4Znr5YZiTPvDXmrcAdcL6j75Ba8&e=1789469256|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="Real Sociedadvs.Atlético Madrid | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Real Sociedadvs.Atlético Madrid | English
-https://edgestream2.pro/hls/377qj1h2727.m3u8?st=mU2syMZA7Cf0I9u6jElfWjPZ1450JKGaBwYoZ_pAh2U&e=1789301509|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="Elchevs.Real Madrid | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Elchevs.Real Madrid | English
+https://edgestream2.pro/hls/377qj1h2727.m3u8?st=OjrKxGTB3doihY_PD1u34Jt1rwuZC3Xhrn3RztLVGVs&e=1789469258|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
 
 
