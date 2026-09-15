@@ -671,107 +671,45 @@ https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?st=3gmM9Erqo55mvBJu4Znr5YZiTPvDXmrcA
 https://edgestream2.pro/hls/377qj1h2727.m3u8?st=OjrKxGTB3doihY_PD1u34Jt1rwuZC3Xhrn3RztLVGVs&e=1789469258|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
 
+#EXTGRP:AFC Champions League
+#EXTINF:-1 tvg-id="Ratchaburi_vs_Shanghai_Port" tvg-name="Ratchaburi vs Shanghai Port" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE FORSAT",Ratchaburi vs Shanghai Port [7:00 AM ET]
+http://193.47.62.44/hls/EGGGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Kashima_Antlers_vs_Newcastle_Jets" tvg-name="Kashima Antlers vs Newcastle Jets" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE FORSAT",Kashima Antlers vs Newcastle Jets [7:00 AM ET]
+http://193.47.62.44/hls/EGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Gamba_Osaka_vs_Cong_An_Ha_Noi" tvg-name="Gamba Osaka vs Cong An Ha Noi" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE FORSAT",Gamba Osaka vs Cong An Ha Noi [7:00 AM ET]
+http://193.47.62.44/hls/emmmaAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Daejeon_vs_Kyoto" tvg-name="Daejeon vs Kyoto" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE FORSAT",Daejeon vs Kyoto [7:00 AM ET]
+http://193.47.62.44/hls/emmmaAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Johor_DT_vs_Buriram" tvg-name="Johor DT vs Buriram" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE FORSAT",Johor DT vs Buriram [9:15 AM ET]
+http://193.47.62.44/hls/EGGGAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Beijing_Guoan_vs_Pohang" tvg-name="Beijing Guoan vs Pohang" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE FORSAT",Beijing Guoan vs Pohang [9:15 AM ET]
+http://193.47.62.44/hls/EGGGAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Arkadag_vs_Al_Muharraq" tvg-name="Arkadag vs Al-Muharraq" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE FORSAT",Arkadag vs Al-Muharraq [10:45 AM ET]
+http://193.47.62.44/hls/EGGGAAAAAQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Gol_Gohar_vs_Al_Jazira" tvg-name="Gol Gohar vs Al Jazira" tvg-logo="https://pbs.twimg.com/profile_images/1874131743009382400/4xdlDIiK_400x400.jpg" group-title="LIVE FORSAT",Gol Gohar vs Al Jazira [10:45 AM ET]
+http://193.47.62.44/hls/EGGGAAAAAQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Asian Games
+#EXTINF:-1 tvg-id="Qatar_U23_vs_South_Korea_U23" tvg-name="Qatar U23 vs South Korea U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE FORSAT",Qatar U23 vs South Korea U23 [7:00 AM ET]
+http://193.47.62.44/hls/emmmaAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Vietnam_U23_vs_Kuwait_U23" tvg-name="Vietnam U23 vs Kuwait U23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Asian_Games_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE FORSAT",Vietnam U23 vs Kuwait U23 [7:00 AM ET]
+http://193.47.62.44/hls/emmmaA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 
 
 
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Man United vs Man City - Sepember 13, 2026 8:30 AM EST
-https://admin2.formaturamaxi.com.br/main.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Man United vs Man City - Sepember 13, 2026 8:30 AM EST (Stream 2)
-https://tedesco.formaturamaxi.com.br/f1.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Napoli vs Bologna - Sepember 13, 2026 9:00 AM EST
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
 
 
 
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Benfica vs Gil Vicente - Sepember 13, 2026 10:00 AM EST
-https://admin.formaturamaxi.com.br/afaplay3es.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",Sassuolo vs Juventus - Sepember 13, 2026 11:45 AM EST
-https://tedesco.formaturamaxi.com.br/cbssn.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT",PSG vs Brest - Sepember 13, 2026 11:45 AM EST
-https://tedesco.formaturamaxi.com.br/beines.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-
-#EXTINF:-1 tvg-id="Ucl" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThNECDCaqZ_D1hsAM7RS6zail7Lkk02kh1BDS87MQfG0LwvOt2WDILpjWv4y1DssE&s=10&ec=121966398" group-title="LIVE FORSAT", Strasbourg vs Monaco - Sepember 12, 2026 8:15 AM EST
-https://tedesco.formaturamaxi.com.br/beines.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-
-
-#EXTINF:-1 tvg-chno="52" tvg-id="Soccer.Dummy.us" tvg-name="Racing Santandervs.Alavés | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Racing Santandervs.Alavés | English
-https://edgestream7.pro/hls/377qj1h2727.m3u8?st=dZysLBgqkWqRF9vwytWhm8I7cRPNPNF0x6forxZMoS4&e=1789212563|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="53" tvg-id="Soccer.Dummy.us" tvg-name="Genoavs.Frosinone | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Genoavs.Frosinone | English
-https://edgestream2.pro/hls/syaLqucEne4k.m3u8?st=2kVV7dRTE5DVloF-rxnRUWGK45mKIFgKEqrgEK0gWwo&e=1789212565|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="54" tvg-id="Soccer.Dummy.us" tvg-name="Borussia Dortmundvs.SC Paderborn 07 | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Borussia Dortmundvs.SC Paderborn 07 | English
-https://edgestream7.pro/hls/ueyeztrazb4.m3u8?st=l4rMC8DElG0ZG-KSk4OSE2fMrOe9lYQr41pMNkYfoTc&e=1789212568|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="55" tvg-id="Soccer.Dummy.us" tvg-name="Liverpoolvs.Fulham | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Liverpoolvs.Fulham | English
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8?st=MYlYSqDAt6AA-oM17ZD5obeEDOmY9xOAtm0NcGUXMHo&e=1789212570|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="56" tvg-id="Soccer.Dummy.us" tvg-name="Crystal Palacevs.Ipswich Town | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Crystal Palacevs.Ipswich Town | English
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?st=24JnZuMCmaxPJPc9hxk5l9J4lOKtPpQugrjNtraInw4&e=1789212573|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="57" tvg-id="Soccer.Dummy.us" tvg-name="Chelseavs.Hull City | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Chelseavs.Hull City | English
-https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8?st=9A-kVGq0kDDj-66mm3ZNOlF5dLNk-mn_VZGg4dcsvtg&e=1789212575|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="58" tvg-id="Soccer.Dummy.us" tvg-name="Aston Villavs.Nottingham Forest | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Aston Villavs.Nottingham Forest | English
-https://edgestream1.pro/hls/sqdahach1ax.m3u8?st=FnXadhZK8DeIY8MJTG38lflvkkalSOmJvXDKI2QvH3A&e=1789212578|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="59" tvg-id="Soccer.Dummy.us" tvg-name="AFC Bournemouthvs.Brentford | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", AFC Bournemouthvs.Brentford | English
-https://edgestream7.pro/hls/griogoehvn2.m3u8?st=EjhgifpPE9gW7k6tibE_0nWXHOjByak7wClcoYdoAhE&e=1789212580|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="60" tvg-id="Soccer.Dummy.us" tvg-name="Strasbourgvs.AS Monaco | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Strasbourgvs.AS Monaco | English
-https://edgestream2.pro/hls/dza5z8f69.m3u8?st=Tqy25mtuqHlaL6PPl7DvPNyAFRA95gIApUmQ0cKXzcw&e=1789212583|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="61" tvg-id="Soccer.Dummy.us" tvg-name="Laziovs.AC Milan | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Laziovs.AC Milan | English
-https://edgestream2.pro/hls/syaLqucEne4k.m3u8?st=BYv6y9e4VtUrL3LHNJ4CYgfjUFY7V4yOqo8WjyAZC8I&e=1789212585|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="62" tvg-id="Soccer.Dummy.us" tvg-name="Tottenham Hotspurvs.Everton | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Tottenham Hotspurvs.Everton | English
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8?st=ErXjsw1rngxYxyrlMizNe-40px4pThVulTw57KMtCyI&e=1789212588|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="63" tvg-id="Soccer.Dummy.us" tvg-name="Athletic Clubvs.Elche | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Athletic Clubvs.Elche | English
-https://edgestream2.pro/hls/377qj1h2727.m3u8?st=nle4EHaYs1hbduuH9ctAYWSH4Uz4A8pP2muCHzKKrvw&e=1789212593|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="64" tvg-id="Soccer.Dummy.us" tvg-name="Paris FCvs.Lyon | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Paris FCvs.Lyon | English
-https://edgestream7.pro/hls/dza5z8f69.m3u8?st=T1JumyLN14-VM6h1IVG5W1YFrqzCjDb8moyzn7wRfz4&e=1789212595|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="65" tvg-id="Soccer.Dummy.us" tvg-name="Lorientvs.Toulouse | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Lorientvs.Toulouse | English
-https://edgestream2.pro/hls/hflfkrtib42.m3u8?st=TBKADBqLDMNFAIfj165poU4YbDdh6U0tWBYYOvUI27A&e=1789212598|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="66" tvg-id="Soccer.Dummy.us" tvg-name="Le Havre ACvs.Angers | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Le Havre ACvs.Angers | English
-https://edgestream2.pro/hls/2rB5nTKlP8mE.m3u8?st=f36ePhMWOlKPhKbi04DqnUW9IAI2kkTxeFN0Itmt2vA&e=1789212600|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="67" tvg-id="Soccer.Dummy.us" tvg-name="AJ Auxerrevs.Nice | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", AJ Auxerrevs.Nice | English
-https://edgestream5.pro/hls/zauygazhjd.m3u8?st=0Sbn4LLR6xbp0beMUFRyeRsjWWB0BQ3sd2wEg39PZD0&e=1789212603|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="68" tvg-id="Soccer.Dummy.us" tvg-name="Atalantavs.Cagliari | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Atalantavs.Cagliari | English
-https://edgestream6.pro/hls/syaLqucEne4k.m3u8?st=rgRp6Ojd1NwVgmraJtszTj7b8bhc5xlwLhHIg6nOzxs&e=1789212605|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="69" tvg-id="Soccer.Dummy.us" tvg-name="Sunderlandvs.Arsenal | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Sunderlandvs.Arsenal | English
-https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8?st=oOC1anIRtHkrDCtMYys3eno50t1rK2JxRksJOJNTljo&e=1789212608|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="70" tvg-id="Soccer.Dummy.us" tvg-name="Real Madridvs.Rayo Vallecano | English" tvg-logo="https://i.gyazo.com/1c4aa937f5ea01b0f29bb27adb59884c.png" group-title="LIVE FORSAT", Real Madridvs.Rayo Vallecano | English
-https://edgestream2.pro/hls/377qj1h2727.m3u8?st=P76UYLNL-1lLZdGu228M_tB7tjk72WzaIKOrbbhy3Gc&e=1789212610|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="71" tvg-id="Racing.Dummy.us" tvg-name="Tag Heuer Spanish Grand Prix — FP3 | English" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT", Tag Heuer Spanish Grand Prix — FP3 | English
-https://edgestream7.pro/hls/hbfkazbkaznc49.m3u8?st=b04_mrXb-0R6lcm-m52RQrOOSpgYEWeu1qnM2-CYXtM&e=1789212613|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="72" tvg-id="Racing.Dummy.us" tvg-name="Tag Heuer Spanish Grand Prix — Qual | English" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT", Tag Heuer Spanish Grand Prix — Qual | English
-https://edgestream2.pro/hls/hbfkazbkaznc49.m3u8?st=gedG2TwxanMReVaKHDfsZ3edWNbp7zqSynpHReLmiXs&e=1789212615|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
 
 
