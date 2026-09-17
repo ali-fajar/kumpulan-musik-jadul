@@ -670,15 +670,18 @@ https://edgestream5.pro/hls/377qj1h2727.m3u8?st=LJ0QGF2EuvpeiSO44oNoA4yIiW5qeq5c
 
 
 
-#EXTGRP:Volleyball European Championship
-#EXTINF:-1 tvg-id="Israel_vs_North_Macedonia" tvg-name="Israel vs North Macedonia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="LIVE FORSAT",Israel vs North Macedonia [10:00 AM ET]
-http://193.47.62.55/hls/VKKK.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="Sweden_vs_Slovakia" tvg-name="Sweden vs Slovakia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="LIVE FORSAT",Sweden vs Slovakia [11:00 AM ET]
-http://193.47.62.55/hls/VKKKQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTINF:-1 tvg-id="Israel_vs_North_Macedonia" tvg-name="Israel vs North Macedonia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="LIVE FORSAT",Carabao Cup - Sepember 17, 2026 11:30 AM EST
+https://admin2.formaturamaxi.com.br/norwich.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 
-#EXTINF:-1 tvg-id="Turkey_vs_Latvia" tvg-name="Turkey vs Latvia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="LIVE FORSAT",Turkey vs Latvia [11:00 AM ET]
-http://193.47.62.55/hls/VKKKQQQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Sweden_vs_Slovakia" tvg-name="Sweden vs Slovakia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="LIVE FORSAT",Man City vs Norwich City - Sepember 17, 2026 11:30 AM EST
+https://admin2.formaturamaxi.com.br/norwich.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 tvg-id="Turkey_vs_Latvia" tvg-name="Turkey vs Latvia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="LIVE FORSAT",Crystal Palace vs Lech PoznaÅ - Sepember 17, 2026 12:00 PM EST
+https://admin2.formaturamaxi.com.br/prem2.m3u8|referer=https://roxiestreams.info/|origin=https://roxiestreams.info|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+
 
 #EXTINF:-1 tvg-id="Denmark_vs_Serbia" tvg-name="Denmark vs Serbia" tvg-logo="https://pbs.twimg.com/profile_images/1129730799639646209/UVAhxHiK_400x400.png" group-title="LIVE FORSAT",Denmark vs Serbia [11:00 AM ET]
 http://193.47.62.55/hls/VKKKQ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
