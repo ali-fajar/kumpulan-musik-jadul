@@ -2332,6 +2332,25 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899578.m3u8
 
 
+
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX HD.png", CINEMAX HD [WEST]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855742.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png", CINEMAX MORE MAX HD [EAST]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855741.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png", CINEMAX MORE MAX HD [WEST]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855740.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX THRILLER MAX.png", CINEMAX THRILLER MAX HD [EAST]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855737.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX THRILLER MAX.png", CINEMAX THRILLER MAX HD [WEST]
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855736.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX ACTION.png", CINEMAX ACTION MAX HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855744.m3u8
+#EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png", CINEMAX MOVIE MAX HD
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855739.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="Hbo romania" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/6/64/HBO_%282016-.n.v.%29.png/revision/latest?cb=20171126141416" group-title="HBO GROUP" , HBO ROM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
