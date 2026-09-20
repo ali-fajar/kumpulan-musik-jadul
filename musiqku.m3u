@@ -1117,25 +1117,25 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ 123 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858749.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858749.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ ABC HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858748.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858748.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ ANGRY BIRDS HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858745.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858745.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ MICKEY MOUSE HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858724.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858724.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ OGGY HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858719.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858719.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ PAW PATROL HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858717.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858717.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ TOM & JERRY HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858703.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858703.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Hip_Hip_Horee.png", HIP HOREE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2351,32 +2351,32 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK CHANNEL.png", HALLMARK CHANNEL HD [EAST]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899582.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/899582.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK CHANNEL.png", HALLMARK CHANNEL HD [WEST]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899577.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/899577.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK MOVIES MYSTERIES.png", HALLMARK MOVIES MYSTERIES HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899584.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/899584.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK DRAMA.png", HALLMARK DRAMA HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899583.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/899583.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/HALLMARK/HALLMARK MOVIES & MORE.png", HALLMARK MOVIES & MORE HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/899578.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/899578.m3u8
 
 
 
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX HD.png", CINEMAX HD [WEST]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855742.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/855742.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png", CINEMAX MORE MAX HD [EAST]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855741.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/855741.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png", CINEMAX MORE MAX HD [WEST]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855740.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/855740.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX THRILLER MAX.png", CINEMAX THRILLER MAX HD [EAST]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855737.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/855737.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX THRILLER MAX.png", CINEMAX THRILLER MAX HD [WEST]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855736.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/855736.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX ACTION.png", CINEMAX ACTION MAX HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855744.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/855744.m3u8
 #EXTINF:-1 group-title="HBO GROUP" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/MOVIES & SERIES/CINEMAX MORE.png", CINEMAX MOVIE MAX HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/855739.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/855739.m3u8
 
 
 
@@ -5611,42 +5611,42 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn.png", ESPN HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858554.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858554.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn 2.png", ESPN 2 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858552.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858552.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 1.png", FOX SPORTS 1 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858547.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858547.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 2.png", FOX SPORTS 2 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858555.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858555.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox soccer plus.png", FOX SOCCER PLUS HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858546.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858546.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox soccer racing.png", FOX SPORTS RACING
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858544.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858544.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/cbs sports network.png", CBS SPORTS NETWORK HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858539.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858539.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fubo sports network.png", FUBO SPORTS NETWORK HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858538.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858538.m3u8
 
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",SKY SPORTS MAIN EVENT HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1312176.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1312176.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS PREMIER LEAUGE.png",SKY SPORTS PREMIER LEAGUE HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1312177.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1312177.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS FOOTBALL.png",SKY SPORTS FOOTBALL HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1312178.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1312178.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MIX.png",SKY SPORTS MIX HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1312241.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1312241.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS ACTION.png",SKY SPORTS ACTION HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1312180.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1312180.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS F1.png", SKY SPORTS F1 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1312181.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1312181.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS RACING.png", SKY SPORTS RACING HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1312182.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1312182.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/CYTAVISION SPORT PREMIERE LEAGUE.png", CYTAVISION SPORT PREMIERE LEAGUE HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1017405.m3u8
@@ -5686,19 +5686,22 @@ https://ondemand.st/papi/tv/dlhd/465/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://ondemand.st/papi/tv/dlhd/466/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+#https://ondemand.st/papi/tv/dlhd/466/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/228723.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",DIEMA SPORT 3 HD
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://ondemand.st/papi/tv/dlhd/467/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+#https://ondemand.st/papi/tv/dlhd/467/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/228722.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kih3iw1701160131.png",ELEVEN 1 POL HD
 #EXTVLCOPT:http-referrer=https://ondemand.st/
 #EXTVLCOPT:http-origin=https://ondemand.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://ondemand.st/papi/tv/dlhd/71/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+#https://ondemand.st/papi/tv/dlhd/71/playlist.m3u8?tk=eOzFN1lWWfWbwo5GVb-Wzg&e=1788712300
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/228721.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y37tax1701160140.png",ELEVEN 2 POL HD
 #EXTVLCOPT:http-referrer=https://ondemand.st/
@@ -5794,13 +5797,13 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/809371.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 1.png", SPORT TV 1 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959340.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/959340.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 2.png", SPORT TV 2 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959344.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/959344.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 3.png", SPORT TV 3 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959348.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/959348.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 4.png", SPORT TV 4 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959352.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/959352.m3u8
 
 
 ========================================F1========================================================
