@@ -6490,37 +6490,21 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium456
 #https://bintangstreaming.my.id/forsat23/pro.php?id=456
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mixmagazine.in.th/img/content/00006926_20211222140221_Sport.jpg", 3BB SPORTS 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
-https://cnt1-streamer18.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJO7OykNxe50oYT8FWaM2FQKgTadxX0CkRH69S1Cu5YuuEOD9_UStG9LA&s=10" group-title="SPORTS", LACROSE TV
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="SPORTS", TIVIBU 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://e9f5db0f59d6470c81af59545905e4e5.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-LacrosseChannel/67caf8b6-c20e-4e74-b772-f6ae76953635/1.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivets1.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb0tqvnP-qdxV5cjZePB-C7CO3xBOwS-IqY9lo4N6MJYRXHaT0JUJdci4&s=10" group-title="SPORTS", RACER TV
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="SPORTS", TIVIBU 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8?channel_name=RACER%20International&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&p=sportstribal&content_url=https%3A%2F%2Fwww.freelivesports.tv%2F&lmt=0&did=KLs98c
+https://andro.evrenesoglu121.click/checklist/androstreamlivets2.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn-prod.dreamsports.group/wp-content/uploads/2021/05/08054043/5ec7bd164133673.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="SPORTS", FANCODE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-#https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0TIfsvSFZs0JzBVG30O5lccq1mhZMgjmsAm8TD1prc-0x9jfivIm--CaT&s=10" group-title="SPORTS", GLORY TV
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="SPORTS", TIVIBU 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://6f972d29.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/22276ea1-4057-480c-96e7-5484c6f29632/0.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivets3.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5ssatStv-LfgQFPSM4wOK5aTFUOq2TKtweQMScIefpCZvbFuYUCBUd4&s=10" group-title="SPORTS", MOTORSPORT TV
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="SPORTS", TIVIBU 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://d1phlc8te2m7db.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/9f1e6eba-eaed-4bab-a928-469cb99d643b/0.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVUs07q59doozAopJv57fU3f7mASa9e9n18-yW-f6plz2cuv9S1DTqglY&s=10" group-title="SPORTS", MTRSPT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6548,35 +6532,35 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="dazn1" tvg-name="Dazn 1Tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mji3s21740769321.png" group-title="SPORTS", Dazn 1 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sdazn1/playlist.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-id="dazn2" tvg-name="Dazn 2Tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mji3s21740769321.png" group-title="SPORTS", Dazn 2 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sdazn2/playlist.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-id="ssport" tvg-name="ssport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1u01u91643201009.png" group-title="SPORTS", SSport TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssport/playlist.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-id="ssport2" tvg-name="ssport2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nrrvxp1643201048.png" group-title="SPORTS", SSport 2 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssport2/playlist.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-id="ssport plus" tvg-name="ssport plus" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iad1yp1643201082.png" group-title="SPORTS", SSport Plus 1 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssplus1/playlist.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
 
 #EXTINF:-1 tvg-id="ssport plus2" tvg-name="ssport plus2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iad1yp1643201082.png" group-title="SPORTS", SSport Plus 2 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssplus2/playlist.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivessplus2.m3u8
 
 #EXTINF:-1 tvg-id="spor smart" tvg-name="spor smart 1" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/smartspor.jpg" group-title="SPORTS", Spor Smart 1 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/ssmartspor/playlist.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-id="spor smart2" tvg-name="spor smart 2" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/smartspor.jpg" group-title="SPORTS", Spor Smart 2 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/ssmartspor2/playlist.m3u8
+https://andro.evrenesoglu121.click/checklist/androstreamlivesm2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8zw5avVpxA0A-Xcvb2TqHn2qXSnu-0QrAdsckHhaOd6vZGjcXNFmuy0&s=10" group-title="SPORTS", SPORTSTV
