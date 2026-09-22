@@ -6062,23 +6062,6 @@ http://5esdg90l.alfalt.fun/iptv/ZQBKBVWT57B5HX/30201/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/IRAN/Arezo_TV.png", AREZO TV HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/440982.m3u8
 
-#EXTINF:-1 tvg-id="ELTASPORT1" tvg-name="ELTA Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/elta1.png" group-title="SPORTS", ELTA SPORT 1
-#https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-1
-
-#EXTINF:-1 tvg-id="ELTASPORT2" tvg-name="ELTA Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/2-480x320.png" group-title="SPORTS", ELTA SPORT 2
-#https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-2
-
-#EXTINF:-1 tvg-id="ELTASPORT3" tvg-name="ELTA Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYimbpAaYDCtocsgNyCvqpxRWBAgmxPHSmbSiBb6Seew&s" group-title="SPORTS", ELTA SPORT 3
-#https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=elta-sports-3
-
-#EXTINF:-1 tvg-id="VIDEOAND SPORTS" tvg-name="VIDEOLAND Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/wlty-1-480x320.png" group-title="SPORTS", VIDEOLAND SPORT 
-#https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=videoland-sports-channel
-
-#EXTINF:-1 tvg-id="SPORTSCAST 1" tvg-name="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd1-480x320.png" group-title="SPORTS", SPORTCAST 1
-#https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sportcast-sport-1
-
-#EXTINF:-1 tvg-id="SPORTSCAST 2" tvg-name="Sports" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/bsyd2-480x320.png" group-title="SPORTS", SPORTCAST 2
-#https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=sportcast-sport-2
 
 
 #EXTINF:-1 tvg-id="PERSIANA SPORT1" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 1
@@ -6104,8 +6087,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana4&type=m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zj1pap1731234597.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.ts
-#http://viptwso.top:8080//VIP01545171425617373/ca75a1a2314d/34649
+http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/18632
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5wx2p81731236425.png" group-title="SPORTS" tvg-id="001" tvg-name="",  ASTRO ARENA 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6125,17 +6107,17 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana4&type=m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571245&extension=ts
+#http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571245&extension=ts
 
 #EXTINF:-1 tvg-id="Astropremierleague2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",ASTRO PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&extension=ts
+#http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=571248&extension=ts
 
 #EXTINF:-1 tvg-id="805.astro" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/c31des1731235026.png", ASSP UHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80
-http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=554968&extension=ts
+#http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:06:9A:77&stream=554968&extension=ts
 
 
 
@@ -6264,13 +6246,13 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c6
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",BEIN SPORTS 1 UHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798772.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/894995.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",BEIN SPORTS 2 UHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798773.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/894996.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",BEIN SPORTS 3 UHD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798788.m3u8
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/894997.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png",BEIN SPORTS 4 UHD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sports-zone/798789.m3u8
