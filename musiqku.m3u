@@ -5585,23 +5585,22 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/894997.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png",BEIN SPORTS 4 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels7/1201196.m3u8
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7751.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png",BEIN SPORTS 5 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels7/1201195.m3u8
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7753.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png",BEIN SPORTS 6 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels7/1201194.m3u8
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7752.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 7.png",BEIN SPORTS 7 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels7/1201193.m3u8
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7748.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 8.png",BEIN SPORTS 8 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels7/1201192.m3u8
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7750.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png",BEIN SPORTS 9 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels7/1201191.m3u8
-
+http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/7747.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/DIRECTV SPORTS+.png", DIRECTV SPORTS+ HD
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1090676.m3u8
