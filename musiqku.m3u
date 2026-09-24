@@ -780,6 +780,12 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas4&type=m3u8
 
 
+#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports (1080p) 1
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg",T Sports 2
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1 group-title="TIMNAS" tvg-id="Rcti+" tvg-logo="https://cdn25.metrotvnews.com/dynamic/content/2026/01/15/b2lC6E5o/a_69685d7c55d2f.jpg?w=1024", RCTI+
 #EXTVLCOPT:http-user-agent=android-R+
 #KODIPROP:inputstream=inputstream.adaptive
