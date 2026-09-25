@@ -5470,7 +5470,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=futsal2&type=m3u8
 ========================================SPORT FORSAT==================================================
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM1.png",ARENA SPORT 1 PREMIUM HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=559016&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=559016&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Arena%20prem1.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://51.158.145.100/picons/logos/EXYU/ARENASPORTPREMIUM2.png",ARENA SPORT 2 PREMIUM HD
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=559015&extension=m3u8
