@@ -726,6 +726,15 @@ EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://cors-mewatch-mimpi.bintangstream513.workers.dev/https://mwmpos04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
+
+#EXTINF:0 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg?w=600&q=90" group-title="TIMNAS" tvg-id="001" tvg-name="016-LABURATV", SUKAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7f2a5c5e56147f7b4e5676ca69e22d9:d587532343ef47e4824950c7a9c9ec9f
+https://mewat.selina2.workers.dev/sukan.mpd
+
+
+
 #EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/g4v6UKDmeQIegZcuUUBkD5hQSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160494/f59c83.jpg" group-title="TIMNAS" tvg-id="001" tvg-name="", INDONESIA U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 EXTVLCOPT:http-referrer=https://m.vidio.com/
