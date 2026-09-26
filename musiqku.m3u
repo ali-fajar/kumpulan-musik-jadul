@@ -5562,17 +5562,23 @@ https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/ESPN.m3u8
 #http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858552&extension=m3u8
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Espn2.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 1.png", FOX SPORTS 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858547&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858547&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Fox1.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 2.png", FOX SPORTS 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858555&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858555&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Fox2.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox soccer plus.png", FOX SOCCER PLUS HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858546&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858546&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Foxsoccer.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox soccer racing.png", FOX SPORTS RACING
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858544&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858544&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Foxracing.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/cbs sports network.png", CBS SPORTS NETWORK HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858539&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858539&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/CBS.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fubo sports network.png", FUBO SPORTS NETWORK HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858538&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858538&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Fubo.m3u8
 
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS HD/SKY SPORTS MAIN EVENT.png",SKY SPORTS MAIN EVENT HD
@@ -5596,19 +5602,24 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/1312182.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/CYTAVISION SPORT PREMIERE LEAGUE.png", CYTAVISION SPORT PREMIERE LEAGUE HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1017405&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1017405&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/CytaPL.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", CYTAVISION SPORT 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244151&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244151&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Cyta1.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", CYTAVISION SPORT 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244152&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244152&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Cyta2.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", CYTAVISION SPORT 3 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244153&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244153&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Cyta3.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", CYTAVISION SPORT 4 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244154&extension=m3u8
+#http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244154&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Cyta4.m3u8
 
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/max-sport-1-logo%20(1).png",MAX SPORT 1 HD
