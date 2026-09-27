@@ -5622,34 +5622,34 @@ https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Cyta4.m3u
 
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/max-sport-1-logo%20(1).png",MAX SPORT 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=228727&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Max1.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport2.png",MAX SPORT 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=228726&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Max2.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Max-sport-3.-logo.png",MAX SPORT 3 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=228725&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Max3.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/maxsport4.png",MAX SPORT 4 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=228724&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Max4.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",DIEMA SPORT 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=228723&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Diema1.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",DIEMA SPORT 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=228722&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Diema2.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/Diema-Sport-2.png",DIEMA SPORT 3 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=228721&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Diema3.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kih3iw1701160131.png",ELEVEN 1 POL HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1729222&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven1.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y37tax1701160140.png",ELEVEN 2 POL HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1729225&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven2.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7gnrhg1701160157.png",ELEVEN 3 POL HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1729228&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven3.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png",BEIN SPORTS 1 EN HD
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1313537&extension=m3u8
