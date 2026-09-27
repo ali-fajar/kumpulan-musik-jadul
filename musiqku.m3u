@@ -5652,40 +5652,40 @@ https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven2.m
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Eleven3.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png",BEIN SPORTS 1 EN HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1313537&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Bein1eng.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png",BEIN SPORTS 2 EN HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1313538&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Bein2eng.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",NOVA SPORTS PREMIER LEAGUE HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=663683&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/NovaPL.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",NOVA SPORTS 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=193070&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Nova1.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Novasports21.png",NOVA SPORTS 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1878&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Nova2.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1108&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sk1.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1107&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sk2.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 3 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1106&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sk3.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 4 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1105&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sk4.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/Sportklub_Logo.svg.png", SPORT KLUB 5 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1104&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sk5.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sports-select-1.png",STAR SPORTS SELECT 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=373202&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sportselect1.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/SPORTS/Star-sport-select-2.png",STAR SPORTS SELECT 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=373201&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sportselect2.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png", HUB PREMIER 1 FHD
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1314077&extension=m3u8
@@ -5700,37 +5700,37 @@ http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1314079&
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1314080&extension=m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=941919&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tsn1.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=941920&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tsn2.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 3 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=941921&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tsn3.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 4 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=941922&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tsn4.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 5 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=941923&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tsn5.m3u8
 
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT SELECT HD.png", SKY SPORT SELECT HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809380&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skyselect.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 1 HD.png", SKY SPORT 1 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809379&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz1.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 2 HD.png", SKY SPORT 2 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809378&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz2.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 3 HD.png", SKY SPORT 3 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809377&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz3.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 4 HD.png", SKY SPORT 4 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809376&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz4.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 5 HD.png", SKY SPORT 5 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809375&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz5.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 6 HD.png", SKY SPORT 6 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809374&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz6.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 7 HD.png", SKY SPORT 7 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809373&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz7.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT PREMIER LEAGUE HD.png", SKY SPORT PREMIER LEAGUE HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809372&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz8.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEW ZEELAND/SKY SPORT 9 HD.png", SKY SPORT 9 HD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809371&extension=m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Skynz9.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 1.png", SPORT TV 1 HD
 http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=959340&extension=m3u8
@@ -5820,7 +5820,7 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=119
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #EXTINF:-1 group-title="MotoGP" tvg-logo="http://103.176.90.95/images/144416.png",SUPERSPORT MOTORSPORT HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/144416.m3u8
+#https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels5/144416.m3u8
 
 #EXTINF:-1 group-title="MotoGP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv%202.png",SPOTV 2 FIRST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
