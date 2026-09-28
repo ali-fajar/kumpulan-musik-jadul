@@ -1086,25 +1086,25 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ 123 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858749.m3u8
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/858749.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ ABC HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858748.m3u8
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/858748.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ ANGRY BIRDS HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858745.m3u8
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/858745.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ MICKEY MOUSE HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858724.m3u8
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/858724.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ OGGY HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858719.m3u8
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/858719.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ PAW PATROL HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858717.m3u8
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/858717.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ TOM & JERRY HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/858703.m3u8
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/858703.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Hip_Hip_Horee.png", HIP HOREE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
