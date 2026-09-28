@@ -6181,13 +6181,13 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c6
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png",BEIN SPORTS 1 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/894995.m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Bein1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png",BEIN SPORTS 2 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/894996.m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Bein2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png",BEIN SPORTS 3 UHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/894997.m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Bein3.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png",BEIN SPORTS 4 UHD
 http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220370.m3u8
@@ -6200,10 +6200,10 @@ http://sts.mydroon.com:8080/live/9127491274/QDXDbuLzFDYaYbD/220374.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png", BEIN SPORTS 1 EN FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313533.m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Bein1eng.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png", BEIN SPORTS 2 EN FHD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/1313534.m3u8
+https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Bein2eng.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="SPORTS" , BEIN SPORTS XTRA En Español 
