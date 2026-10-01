@@ -642,32 +642,96 @@ https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.m
 
 
 
-#EXTINF:-1 tvg-chno="3" tvg-id="Soccer.Dummy.us" tvg-name="Georgiavs.Ukraine | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Georgia vs.Ukraine | English
-https://edgestream5.pro/hls/b0h5fNwDKH.m3u8?st=LS1uu5JH1wxJ3G1uU8-Z1c4esQJwxRnY10sNVG6q1GI&e=1790589423|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="4" tvg-id="Soccer.Dummy.us" tvg-name="Armeniavs.Montenegro | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Armenia vs.Montenegro | English
-https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?st=7d9q0quqQLVNfA5tckUjnwYNfXLRL50RlGsbIspYPO8&e=1790589425|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="5" tvg-id="Soccer.Dummy.us" tvg-name="Latviavs.Cyprus | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Latvia vs.Cyprus | English
-https://edgestream6.pro/hls/eJmauBDCIf.m3u8?st=6K8tnTwq0jUP1MGvwRx1IpUgdA4gQQz1368g7IBPoS8&e=1790589427|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="6" tvg-id="Soccer.Dummy.us" tvg-name="Türkiyevs.Italy | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Türkiye vs.Italy | English
-https://edgestream5.pro/hls/b0h5fNwDKH.m3u8?st=ogYwEfNqDKrLf1xaRTsii0VhgaWHVBk5_k-do2lqWcE&e=1790589429|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="7" tvg-id="Soccer.Dummy.us" tvg-name="Romaniavs.Bosnia-Herzegovina | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Romania vs.Bosnia-Herzegovina | English
-https://edgestream5.pro/hls/sqdahach1ax.m3u8?st=5gzaFo76W4OxBpw4CFzuUAp4eCtvPKYJomv5PRrjbgY&e=1790589430|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="8" tvg-id="Soccer.Dummy.us" tvg-name="Northern Irelandvs.Hungary | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Northern Ireland vs.Hungary | English
-https://edgestream6.pro/hls/griogoehvn2.m3u8?st=kJFmKLPG26Y3AsL4hxYH3exQnnLnKZzz3U_d05vd6oI&e=1790589432|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="9" tvg-id="Soccer.Dummy.us" tvg-name="Swedenvs.Poland | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Sweden vs.Poland | English
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8?st=NtxbcgssVjGqxUKyuNe5D1fxQb3ibqnlH_4G-BDK3dg&e=1790589434|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="10" tvg-id="Soccer.Dummy.us" tvg-name="Belgiumvs.France | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Belgium vs.France | English
-https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?st=RAQ06exUNt_zgQbf8SSnIH3VsmEk1TraDWubn20afgk&e=1790589435|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
 
 
 
+#EXTINF:-1 tvg-id="AEW_Dynamite" tvg-name="AEW Dynamite" tvg-logo="https://pbs.twimg.com/profile_images/2033318081175621633/JctrbH2d_400x400.jpg" group-title="LIVE FORSAT",AEW Dynamite [9:00 PM ET]
+http://193.47.62.44/hls/IFFFA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Bolivia Copa
+#EXTINF:-1 tvg-id="Oriente_Petrolero_vs_The_Strongest" tvg-name="Oriente Petrolero vs The Strongest" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg" group-title="LIVE FORSAT",Oriente Petrolero vs The Strongest [9:30 PM ET]
+http://193.47.62.44/hls/IFFFAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Tomayapo_vs_Nacional_Potosi" tvg-name="Tomayapo vs Nacional Potosi" tvg-logo="https://pbs.twimg.com/profile_images/2098622913641414665/OqB33HYM_400x400.jpg" group-title="LIVE FORSAT",Tomayapo vs Nacional Potosi [7:30 PM ET]
+http://193.47.62.41/hls/PMMMAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Canada Premier League
+#EXTINF:-1 tvg-id="Atl_Ottawa_vs_Cavalry" tvg-name="Atl Ottawa vs Cavalry" tvg-logo="https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png" group-title="LIVE FORSAT",Atl Ottawa vs Cavalry [8:00 PM ET]
+http://193.47.62.41/hls/ZOOOAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Chile Copa
+#EXTINF:-1 tvg-id="D_Concepcion_vs_OHiggins" tvg-name="D Concepcion vs OHiggins" tvg-logo="https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg" group-title="LIVE FORSAT",D Concepcion vs OHiggins [8:00 PM ET]
+http://193.47.62.41/hls/ZOOOAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Colombia Primera A
+#EXTINF:-1 tvg-id="Atl_Nacional_vs_Junior" tvg-name="Atl Nacional vs Junior" tvg-logo="https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg" group-title="LIVE FORSAT",Atl Nacional vs Junior [10:00 PM ET]
+http://193.47.62.44/hls/IFFFAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Cricket Asian Games
+#EXTINF:-1 tvg-id="Pakistan_vs_Bangladesh" tvg-name="Pakistan vs Bangladesh" tvg-logo="https://pbs.twimg.com/profile_images/1404378291599937536/b-r3SWlW_400x400.jpg" group-title="LIVE FORSAT",Pakistan vs Bangladesh [9:00 PM ET]
+http://193.47.62.41/hls/GGGG.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Friendly Match
+#EXTINF:-1 tvg-id="Argentina_vs_Bolivia___CH_2" tvg-name="Argentina vs Bolivia - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE FORSAT",Argentina vs Bolivia - CH 2 [9:00 PM ET]
+https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Bolivia___CH_1" tvg-name="Argentina vs Bolivia - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE FORSAT",Argentina vs Bolivia - CH 1 [9:00 PM ET]
+http://193.47.62.50/hls/ZZZZ.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Argentina_vs_Bolivia___CH_3" tvg-name="Argentina vs Bolivia - CH 3" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE FORSAT",Argentina vs Bolivia - CH 3 [9:00 PM ET]
+https://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:MLB Baseball
+#EXTINF:-1 tvg-id="New_York_Yankees_vs_Boston_Red_Sox" tvg-name="New York Yankees vs Boston Red Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE FORSAT",New York Yankees vs Boston Red Sox [9:00 PM ET]
+http://193.47.62.59/hls/IFFFAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="San_Diego_Padres_vs_Chicago_Cubs" tvg-name="San Diego Padres vs Chicago Cubs" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE FORSAT",San Diego Padres vs Chicago Cubs [11:00 PM ET]
+http://193.47.62.41/hls/ZOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Houston_Astros_vs_Chicago_White_Sox" tvg-name="Houston Astros vs Chicago White Sox" tvg-logo="https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg" group-title="LIVE FORSAT",Houston Astros vs Chicago White Sox [6:00 PM ET]
+http://193.47.62.41/hls/ZOOOA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:MLS League
+#EXTINF:-1 tvg-id="New_York_Red_Bulls_vs_St_Louis_City" tvg-name="New York Red Bulls vs St Louis City" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="LIVE FORSAT",New York Red Bulls vs St Louis City [8:30 PM ET]
+http://193.47.62.41/hls/ZOOOAAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="New_York_Red_Bulls_vs_St_Louis_City___CH_2" tvg-name="New York Red Bulls vs St Louis City - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1905305167571906561/uf8ZOlCD_400x400.jpg" group-title="LIVE FORSAT",New York Red Bulls vs St Louis City - CH 2 [8:30 PM ET]
+https://live.dyrur1.com/live/wv78xivmyl9hokr_0cd17c540b0cece790c9d9c48f2d2d81_540p.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:NHL Hockey
+#EXTINF:-1 tvg-id="Toronto_Maple_Leafs_vs_New_York_Islanders" tvg-name="Toronto Maple Leafs vs New York Islanders" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="LIVE FORSAT",Toronto Maple Leafs vs New York Islanders [8:30 PM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5b9bd257-4154-4ffa-ae28-90e11a08b641/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Philadelphia_Flyers_vs_Pittsburgh_Penguins" tvg-name="Philadelphia Flyers vs Pittsburgh Penguins" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="LIVE FORSAT",Philadelphia Flyers vs Pittsburgh Penguins [8:30 PM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/859e2f77-53dd-47b0-a1de-43eaf570f5b1/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Colorado_Avalanche_vs_Los_Angeles_Kings" tvg-name="Colorado Avalanche vs Los Angeles Kings" tvg-logo="https://pbs.twimg.com/profile_images/2071354600800587776/Ebbqt2Ki_400x400.jpg" group-title="LIVE FORSAT",Colorado Avalanche vs Los Angeles Kings [11:00 PM ET]
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ff2fd302-da85-4149-946d-ada4e73d06f3/master.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Paraguay Copa
+#EXTINF:-1 tvg-id="Cerro_Porteno_vs_Rubio_Nu" tvg-name="Cerro Porteno vs Rubio Nu" tvg-logo="https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg" group-title="LIVE FORSAT",Cerro Porteno vs Rubio Nu [7:30 PM ET]
+http://193.47.62.41/hls/PMMMAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:Uruguay Liga AUF
+#EXTINF:-1 tvg-id="Montevideo_City_vs_Penarol" tvg-name="Montevideo City vs Penarol" tvg-logo="https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg" group-title="LIVE FORSAT",Montevideo City vs Penarol [8:00 PM ET]
+http://193.47.62.41/hls/ZOOOAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:WNBA Basketball
+#EXTINF:-1 tvg-id="Washington_Mystics_W_vs_Atlanta_Dream_W___CH_2" tvg-name="Washington Mystics W vs Atlanta Dream W - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="LIVE FORSAT",Washington Mystics W vs Atlanta Dream W - CH 2 [8:00 PM ET]
+https://www.rtmpcdn.com/live/02dbba1e-6550-448d-b7a9-a415ac63464b.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Washington_Mystics_W_vs_Atlanta_Dream_W___CH_1" tvg-name="Washington Mystics W vs Atlanta Dream W - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="LIVE FORSAT",Washington Mystics W vs Atlanta Dream W - CH 1 [8:00 PM ET]
+http://193.47.62.41/hls/ZOOO.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dallas_Wings_W_vs_Golden_State_Valkyries_W___CH_1" tvg-name="Dallas Wings W vs Golden State Valkyries W - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="LIVE FORSAT",Dallas Wings W vs Golden State Valkyries W - CH 1 [10:00 PM ET]
+http://193.47.62.44/hls/IFFFAAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTINF:-1 tvg-id="Dallas_Wings_W_vs_Golden_State_Valkyries_W___CH_2" tvg-name="Dallas Wings W vs Golden State Valkyries W - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg" group-title="LIVE FORSAT",Dallas Wings W vs Golden State Valkyries W - CH 2 [10:00 PM ET]
+https://www.rtmpcdn.com/live/66daaf59-ae4a-4463-94bb-6f96737b8576.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+
+#EXTGRP:WWE Wrestling
+#EXTINF:-1 tvg-id="WWE_Worlds_Collide_2026" tvg-name="WWE Worlds Collide 2026" tvg-logo="https://pbs.twimg.com/profile_images/1383079031805972485/3sWoMX-R_400x400.jpg" group-title="LIVE FORSAT",WWE Worlds Collide 2026 [8:00 PM ET]
+http://193.47.62.44/hls/IFFF.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 
 
