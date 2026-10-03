@@ -5561,6 +5561,12 @@ https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Cyta3.m3u
 #http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=244154&extension=m3u8
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Cyta4.m3u8
 
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", CYTAVISION SPORT 5 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/244155.m3u8
+
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", CYTAVISION SPORT 6 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/244156.m3u8
+
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BULGARIA/max-sport-1-logo%20(1).png",MAX SPORT 1 HD
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Max1.m3u8
