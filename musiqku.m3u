@@ -982,7 +982,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 ===========================KIDS==============================
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Boomerang.png", BOOMERANG HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858770.m3u8
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/823754.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg",Max Kids
 #https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
@@ -999,12 +999,11 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=b5oxspLlU0s
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Teennick.png", TEEN NICK HD [WEST]
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858754.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYCHANNEL.png", DISNEY CHANNEL HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/823766.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-id="Masha" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://m.media-amazon.com/images/S/aplus-media-library-service-media/b00ca1d4-705a-403d-abaa-1d547e98d9c1.__CR0,0,1080,540_PT0_SX350_V1___.jpg", MASHA AND THE BEAR
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=xKUDpdfX8Nw
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYJUNIOR.png", DISNEY JR HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/823765.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/xXxyBrv/dunianak.png",Besmart (V+)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
