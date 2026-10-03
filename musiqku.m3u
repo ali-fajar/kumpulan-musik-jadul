@@ -5487,6 +5487,13 @@ https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/ESPN.m3u8
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn 2.png", ESPN 2 HD
 #http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858552&extension=m3u8
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Espn2.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/ESPN.png", ESPN SPORTS HD ARG
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1090640.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/ESPN 2.png", ESPN SPORTS 2 HD ARG
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1090695.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/ESPN 3.png", ESPN SPORTS 3 HD ARG
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1090641.m3u8
+
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 1.png", FOX SPORTS 1 HD
 #http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858547&extension=m3u8
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Fox1.m3u8
