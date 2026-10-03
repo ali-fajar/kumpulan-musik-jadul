@@ -5474,6 +5474,12 @@ https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tnt3.m3u8
 #http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1174239&extension=m3u8
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tnt4.m3u8
 
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/DIRECTV SPORTS+.png", DIRECTV SPORTS+ HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1090676.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/DIRECTV SPORTS 2.png", DIRECTV SPORTS 2 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1090675.m3u8
+#EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/CABLE PREMIUM/DIRECTV SPORTS.png", DIRECTV SPORTS HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1090674.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/espn.png", ESPN HD
 #http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=858554&extension=m3u8
