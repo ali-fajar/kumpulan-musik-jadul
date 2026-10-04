@@ -643,32 +643,8 @@ https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.m
 
 
 
-
-#EXTINF:-1 tvg-chno="43" tvg-id="Soccer.Dummy.us" tvg-name="Finlandvs.Albania | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Finland vs.Albania | English
-https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?st=czzkixapz4M8D2MYGfNrhrp8frlJO6c2l-amNcNSTVU&e=1791025748|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="44" tvg-id="Soccer.Dummy.us" tvg-name="Icelandvs.Bulgaria | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Iceland vs.Bulgaria | English
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8?st=vc-cIhTrx5c8HpvQiYIlfMj5miUwktKLcRHQ5qvjxQo&e=1791025749|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="45" tvg-id="Soccer.Dummy.us" tvg-name="Croatiavs.England | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Croatia vs.England | English
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?st=Wsu3ELjV_z-9ps7PwSXS6BLbAtra7Ak5_lO-YJrMZe4&e=1791025750|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="46" tvg-id="Soccer.Dummy.us" tvg-name="Belarusvs.San Marino | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Belarus vs.San Marino | English
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8?st=RQJvFsSmV86Ye68bjLYZPug1nbrUe85mPD4G5IE3Qj8&e=1791025751|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="47" tvg-id="Soccer.Dummy.us" tvg-name="Estoniavs.Luxembourg | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Estonia vs.Luxembourg | English
-https://edgestream7.pro/hls/sqdahach1ax.m3u8?st=RGeuLWAu5KhHY-vSAfplXdz6bQhliY8GnSUIyLrSBmI&e=1791025753|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="48" tvg-id="Soccer.Dummy.us" tvg-name="North Macedoniavs.Scotland | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", North Macedonia vs.Scotland | English
-https://edgestream4.pro/hls/eJmauBDCIf.m3u8?st=Eb4_7khsASLGNzUBx1A_ENq5DXdqb7Hc3oMxWxA85Jo&e=1791025754|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="49" tvg-id="Soccer.Dummy.us" tvg-name="Switzerlandvs.Slovenia | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Switzerland vs.Slovenia | English
-https://edgestream7.pro/hls/b0h5fNwDKH.m3u8?st=dncrK8w_bJEQ0_3LTMLSgrVO2PfqTJb-XXHSnZ8D41Y&e=1791025754|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="50" tvg-id="Soccer.Dummy.us" tvg-name="Spainvs.Czechia | English" tvg-logo="https://files.catbox.moe/r05ma0.png" group-title="LIVE FORSAT", Spain vs.Czechia | English
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8?st=1f8kKjIsNFp_9qd0wmX8JqP8D8Q8_3ztjXhxulWDpsc&e=1791025755|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-
+#EXTINF:-1 tvg-id="British_Superbike_Championship" tvg-name="British Superbike Championship" tvg-logo="https://pbs.twimg.com/profile_images/2052332708588556291/z5ZC2x6v_400x400.jpg" group-title="LIVE SPORT",British Superbike Championship [9:00 AM ET]
+http://193.47.62.41/hls/TGGGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 
 
