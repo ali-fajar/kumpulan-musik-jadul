@@ -642,31 +642,15 @@ https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.m
 ========================================LIVE HARI INI==========================================================
 
 
+#EXTINF:-1 tvg-id="Indonesia_vs_Thailand" tvg-name="Indonesia vs Thailand" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="LIVE FORSAT",Indonesia vs Thailand [10:00 AM ET]
+http://193.47.62.55/hls/ekkkkAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-id="British_Superbike_Championship" tvg-name="British Superbike Championship" tvg-logo="https://pbs.twimg.com/profile_images/2052332708588556291/z5ZC2x6v_400x400.jpg" group-title="LIVE SPORT",British Superbike Championship [9:00 AM ET]
-http://193.47.62.41/hls/TGGGA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-chno="18" tvg-id="Soccer.Dummy.us" tvg-name="Azerbaijanvs.Lithuania | English" tvg-logo="https://mmc.tirto.id/image/2020/09/03/800px-uefa_nations_league_ratio-16x9.jpg" group-title="LIVE FORSAT", Azerbaijan vs.Lithuania | English
-https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8?st=k2Y6TvAy3POiwQ01f6k4j24dbpYwvGFxNRQARBFngGc&e=1791127496|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
+#EXTINF:-1 tvg-id="Japan_vs_New_Zealand___CH_1" tvg-name="Japan vs New Zealand - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE FORSAT",Japan vs New Zealand - CH 1 [7:30 AM ET]
+http://193.47.62.55/hls/ekkkkAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Soccer.Dummy.us" tvg-name="Maltavs.Andorra | English" tvg-logo="https://mmc.tirto.id/image/2020/09/03/800px-uefa_nations_league_ratio-16x9.jpg" group-title="LIVE FORSAT", Malta vs.Andorra | English
-https://edgestream4.pro/hls/eJmauBDCIf.m3u8?st=gEaPfwQNh3ftKDRsHHFwgbrnA-qRlhKBuLHZgP0Zlds&e=1791127497|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="20" tvg-id="Soccer.Dummy.us" tvg-name="Kosovovs.Austria | English" tvg-logo="https://mmc.tirto.id/image/2020/09/03/800px-uefa_nations_league_ratio-16x9.jpg" group-title="LIVE FORSAT", Kosovo vs.Austria | English
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8?st=o36zglHcRKY5KSDObkNM4HjkUk0powqjBCLmzIr5Lss&e=1791127499|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="21" tvg-id="Soccer.Dummy.us" tvg-name="Netherlandsvs.Serbia | English" tvg-logo="https://mmc.tirto.id/image/2020/09/03/800px-uefa_nations_league_ratio-16x9.jpg" group-title="LIVE FORSAT", Netherlands vs.Serbia | English
-https://edgestream7.pro/hls/eJmauBDCIf.m3u8?st=eXICFyKVTvXuTqkmdwZ1IG5wVacBkaq2-Wuclc9wB9E&e=1791127500|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="22" tvg-id="Soccer.Dummy.us" tvg-name="Greecevs.Germany | English" tvg-logo="https://mmc.tirto.id/image/2020/09/03/800px-uefa_nations_league_ratio-16x9.jpg" group-title="LIVE FORSAT", Greece vs.Germany | English
-https://edgestream6.pro/hls/b0h5fNwDKH.m3u8?st=oIJFd54C2tUyOjgx11Z9PPXwV2-GrvUXYLWuCPT4yFM&e=1791127500|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="23" tvg-id="Soccer.Dummy.us" tvg-name="Walesvs.Denmark | English" tvg-logo="https://mmc.tirto.id/image/2020/09/03/800px-uefa_nations_league_ratio-16x9.jpg" group-title="LIVE FORSAT", Wales vs.Denmark | English
-https://edgestream4.pro/hls/griogoehvn2.m3u8?st=1uHJ5LXDt2wyjKBauX0T_gCEfMAe7gOIQK7oq9nN2wQ&e=1791127502|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
-#EXTINF:-1 tvg-chno="24" tvg-id="Soccer.Dummy.us" tvg-name="Portugalvs.Norway | English" tvg-logo="https://mmc.tirto.id/image/2020/09/03/800px-uefa_nations_league_ratio-16x9.jpg" group-title="LIVE FORSAT", Portugal vs.Norway | English
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8?st=vEJpYfwcpsTHzse9bfJ2F-vfyLlrub42Z76LSRCXGPI&e=1791127503|referer=https://streame.center/|origin=https://streame.center|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F144.0.0.0%20Safari%2F537.36
-
+#EXTINF:-1 tvg-id="Japan_vs_New_Zealand___CH_2" tvg-name="Japan vs New Zealand - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE FORSAT",Japan vs New Zealand - CH 2 [7:30 AM ET]
+https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 
 
 
