@@ -649,7 +649,7 @@ https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.m
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bJRhvCM/premiersports2.png" group-title="LIVE FORSAT", Premier Sports 2 ARGENTINA VS BENIN
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK PREMIER SPORTS/PREMIER SPORTS 2.png" group-title="LIVE FORSAT", PREMIER SPORT 2 ARGENTINA VS BENIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
