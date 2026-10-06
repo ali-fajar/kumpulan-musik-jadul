@@ -642,16 +642,11 @@ https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.m
 ========================================LIVE HARI INI==========================================================
 
 
-#EXTINF:-1 tvg-id="Indonesia_vs_Thailand" tvg-name="Indonesia vs Thailand" tvg-logo="https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg" group-title="LIVE FORSAT",Indonesia vs Thailand [10:00 AM ET]
-http://193.47.62.55/hls/ekkkkAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-
-#EXTINF:-1 tvg-id="Japan_vs_New_Zealand___CH_1" tvg-name="Japan vs New Zealand - CH 1" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE FORSAT",Japan vs New Zealand - CH 1 [7:30 AM ET]
-http://193.47.62.55/hls/ekkkkAAA.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
-#EXTINF:-1 tvg-id="Japan_vs_New_Zealand___CH_2" tvg-name="Japan vs New Zealand - CH 2" tvg-logo="https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg" group-title="LIVE FORSAT",Japan vs New Zealand - CH 2 [7:30 AM ET]
-https://www.rtmpcdn.com/live/1f373dee-b835-4fe5-88c2-f6fcdb8a3894.m3u8|referer=http://www.fawanews.sc/|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-
+#EXTINF:-1 tvg-id="Fox Sports 2 HDTV" tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="LIVE FORSAT", FS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
 
 ==========================================TIMNAS =================================================================
