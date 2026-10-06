@@ -642,7 +642,7 @@ https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.m
 ========================================LIVE HARI INI==========================================================
 
 
-#EXTINF:-1 tvg-id="Fox Sports 2 HDTV" tvg-logo="https://i.ibb.co.com/pwRPZLw/fs2.png" group-title="LIVE FORSAT", FS2
+#EXTINF:-1 tvg-id="Fox Sports 2 HDTV" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/sports/fox sports 2.png" group-title="LIVE FORSAT", FS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
