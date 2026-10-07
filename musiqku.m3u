@@ -6708,14 +6708,16 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce5f0570b7f89e2efe19c7bf3c77dae7:d17fdbc7f72e68adf298b71d935864ba
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
+#https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports_arg)/variant.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fox1arg&type=m3u8
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/d96btm1707916453.png", FOX SPORTS 2 ARG
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=922eaebf57397ebf2656cbf71ae4775f:3014cf17de69d8f916a83cbf6b4aec94
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports2_arg)/variant.mpd
+#https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports2_arg)/variant.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fox2arg&type=m3u8
 
 
 #EXTINF:-1 tvg-id="onfootball" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cyfsdc1707916479.png", FOX SPORTS 3 ARG
@@ -6723,7 +6725,8 @@ https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports2_arg)/variant
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee0ff8714c8f96a448eae5c9b796c889:d7c1e6b0d11ba5051096bb34779c6efb
-https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports3_arg)/variant.mpd
+#https://dish-arg.akamaized.net/Content/DASH/Live/channel(foxsports3_arg)/variant.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fox3arg&type=m3u8
 
 #EXTINF:-1 tvg-id="vtvcantho" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f8fyyg1642114077.png", DIRECT SPORT 1 ARG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
