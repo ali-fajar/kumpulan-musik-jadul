@@ -4900,12 +4900,12 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=epl3&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/YfcLFQhjH3dBhA2tGqs8Qf.jpg", EPL 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-referrer=https://xstream.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl4&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/YfcLFQhjH3dBhA2tGqs8Qf.jpg", EPL 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://embed.st/
+#EXTVLCOPT:http-referrer=https://xstream.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=epl5&type=m3u8
 
 
