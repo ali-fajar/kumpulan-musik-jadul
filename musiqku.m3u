@@ -4662,7 +4662,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 #https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/22207/res=1080p/file/drm/dash/stream.mpd?hdntl=exp=1789300672~acl=%2fstream%2f22207%2fres%3d1080p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f22207%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=210847022~data=hdntl~hmac=957f30757cd3292298c36b70d8bb5de5b77230feaf66ba980a69c0f57768c834
-http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302264.m3u8
+http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/62227
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", PERSIK VS DEWA UNITED
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -4698,7 +4698,7 @@ http://filex.me:8080/live/@singh_tesla_7207492/puWnhEGsXpK3/302264.m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bri1&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2025/12/1280x720/bri-super-league-log_49d0e29.jpg" group-title="LIGA INDONESIA", BRI 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://livetv.rkda.my.id
 #EXTVLCOPT:http-referrer=https://livetv.rkda.my.id/
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=live3&type=m3u8
