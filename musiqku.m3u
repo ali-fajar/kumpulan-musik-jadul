@@ -4842,29 +4842,43 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl8&type=m3u8
 
 ==================================================EFL============================================
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/emirates-fa-cup-logo-png_seeklogo-478798.png" group-title="EFL", FA 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQimh8XnSQb122zRMFUeZR7gJ6z3TgSBK2BcfRPvrOGtNa1t5rugzxSs&s=10" group-title="EFL", FA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://xstream.st
 #EXTVLCOPT:http-referrer=https://xstream.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=efl1&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/emirates-fa-cup-logo-png_seeklogo-478798.png" group-title="EFL", FA 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQimh8XnSQb122zRMFUeZR7gJ6z3TgSBK2BcfRPvrOGtNa1t5rugzxSs&s=10" group-title="EFL", FA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://xstream.st
 #EXTVLCOPT:http-referrer=https://xstream.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=efl2&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/emirates-fa-cup-logo-png_seeklogo-478798.png" group-title="EFL", FA 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQimh8XnSQb122zRMFUeZR7gJ6z3TgSBK2BcfRPvrOGtNa1t5rugzxSs&s=10" group-title="EFL", FA 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://xstream.st
 #EXTVLCOPT:http-referrer=https://xstream.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=efl3&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/47/1/emirates-fa-cup-logo-png_seeklogo-478798.png" group-title="EFL", FA 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReQimh8XnSQb122zRMFUeZR7gJ6z3TgSBK2BcfRPvrOGtNa1t5rugzxSs&s=10" group-title="EFL", FA 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://xstream.st
 #EXTVLCOPT:http-referrer=https://xstream.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=efl4&type=m3u8
+
+
+
+#EXTINF:-1 group-title="EFL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS PLUS/SKY SPORTS PLUS.png", SKY SPORTS+ EVENT 1
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/870303.m3u8
+#EXTINF:-1 group-title="EFL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS PLUS/SKY SPORTS PLUS.png", SKY SPORTS+ EVENT 2
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/870302.m3u8
+#EXTINF:-1 group-title="EFL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS PLUS/SKY SPORTS PLUS.png", SKY SPORTS+ EVENT 3
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/870301.m3u8
+#EXTINF:-1 group-title="EFL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS PLUS/SKY SPORTS PLUS.png", SKY SPORTS+ EVENT 4
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/870300.m3u8
+#EXTINF:-1 group-title="EFL" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK SKY SPORTS PLUS/SKY SPORTS PLUS.png", SKY SPORTS+ EVENT 5
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/870299.m3u8
+
 
 
 ======================= LIGA INGGRIS ====================================
