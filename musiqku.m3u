@@ -4781,6 +4781,35 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=123
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=124
 
+#EXTINF:-1 group-title="UCL" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+
+
+#EXTINF:-1 group-title="UCL" tvg-id="TNTSports2.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",TNT SPORTS 2 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+
+#EXTINF:-1 group-title="UCL" tvg-id="TNTSports3.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",TNT SPORTS 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+
+
+#EXTINF:-1 group-title="UCL" tvg-id="TNTSports4.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",TNT SPORTS 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
+
+
+
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/897/198897-LOGO-m.png" group-title="UCL", BEIN SPORTS 4 (VISION+)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
@@ -6384,19 +6413,19 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="SPORTS", TIVIBU 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://andro.evrenesoglu121.click/checklist/androstreamlivets1.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivets1.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="SPORTS", TIVIBU 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://andro.evrenesoglu121.click/checklist/androstreamlivets2.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivets2.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="SPORTS", TIVIBU 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://andro.evrenesoglu121.click/checklist/androstreamlivets3.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivets3.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="SPORTS", TIVIBU 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://andro.evrenesoglu121.click/checklist/androstreamlivets4.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivets4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVUs07q59doozAopJv57fU3f7mASa9e9n18-yW-f6plz2cuv9S1DTqglY&s=10" group-title="SPORTS", MTRSPT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6424,35 +6453,35 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="dazn1" tvg-name="Dazn 1Tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mji3s21740769321.png" group-title="SPORTS", Dazn 1 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebsm1.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivebsm1.m3u8
 
 #EXTINF:-1 tvg-id="dazn2" tvg-name="Dazn 2Tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mji3s21740769321.png" group-title="SPORTS", Dazn 2 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivebsm2.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivebsm2.m3u8
 
 #EXTINF:-1 tvg-id="ssport" tvg-name="ssport" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1u01u91643201009.png" group-title="SPORTS", SSport TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivess1.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 tvg-id="ssport2" tvg-name="ssport2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/nrrvxp1643201048.png" group-title="SPORTS", SSport 2 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivess2.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivess2.m3u8
 
 #EXTINF:-1 tvg-id="ssport plus" tvg-name="ssport plus" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iad1yp1643201082.png" group-title="SPORTS", SSport Plus 1 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivessplus1.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivessplus1.m3u8
 
 #EXTINF:-1 tvg-id="ssport plus2" tvg-name="ssport plus2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iad1yp1643201082.png" group-title="SPORTS", SSport Plus 2 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivessplus2.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivessplus2.m3u8
 
 #EXTINF:-1 tvg-id="spor smart" tvg-name="spor smart 1" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/smartspor.jpg" group-title="SPORTS", Spor Smart 1 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivesm1.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivesm1.m3u8
 
 #EXTINF:-1 tvg-id="spor smart2" tvg-name="spor smart 2" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/smartspor.jpg" group-title="SPORTS", Spor Smart 2 TR
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
-https://andro.evrenesoglu121.click/checklist/androstreamlivesm2.m3u8
+https://andro.evrenesoglu149.click/checklist/androstreamlivesm2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8zw5avVpxA0A-Xcvb2TqHn2qXSnu-0QrAdsckHhaOd6vZGjcXNFmuy0&s=10" group-title="SPORTS", SPORTSTV
