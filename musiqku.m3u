@@ -654,6 +654,32 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
+
+#EXTINF:-1 tvg-id="809" tvg-name="UEFA Champions League: Roma vs Real Madrid - PARAMOUNT+ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2QxjKmvcPGKYdAOub-P6F0N-lJUWzyC7REjCfsZQdwp3uG1B5tbXu32L&s=10" group-title="LIVE FORSAT",UEFA Champions League: Roma vs Real Madrid - PARAMOUNT+ FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f74059e8b865ccde4ced994f17e9d0cf:9c8612b8a81cde64682cd1a57b32a5a8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 OPR/136.0.0.0
+#EXTVLCOPT:http-referrer=https://www.amazon.com/
+#EXTVLCOPT:http-origin=https://www.amazon.com
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/kxdpx4kclo/out/v1/d40a0af87af94137945f3d4a73173f41/c769580a-67d7-4a36-b719-3428439ac1c0-cenc.mpd
+
+#EXTINF:-1 tvg-id="810" tvg-name="UEFA Champions League: Man City vs PSG - STAN SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2QxjKmvcPGKYdAOub-P6F0N-lJUWzyC7REjCfsZQdwp3uG1B5tbXu32L&s=10" group-title="LIVE FORSAT",UEFA Champions League: Man City vs PSG - STAN SPORTS HD
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://iplayer.is/
+https://netanjahu.hls.st/t/da3a3dc8b3f1fb435bb537b907cbe7d2/index.m3u8
+
+#EXTINF:-1 tvg-id="807" tvg-name="UEFA Champions League: Feyenoord vs Como - TNT SPORTS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw2QxjKmvcPGKYdAOub-P6F0N-lJUWzyC7REjCfsZQdwp3uG1B5tbXu32L&s=10" group-title="LIVE FORSAT",UEFA Champions League: Feyenoord vs Como - TNT SPORTS FHD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+
 ==========================================TIMNAS =================================================================
 
 #EXTINF:-1 group-logo="" tvg-logo="https://thumbor.prod.vidiocdn.com/C3F-eZr7qSIH8poESl3r-wrNWRw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105750/5ad348.jpg" group-title="TIMNAS", VIETNAM VS TIMOR LESTE
