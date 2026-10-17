@@ -676,21 +676,27 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="817" tvg-name="UEFA Europa League: Lech vs Leverkusen - SonyLiv ENG - AQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6Zf4h7zMicDqx2UW3V_qKetsfMXR03r1yk_nSa9XCaS4uA9Guq85u6s&s=10" group-title="LIVE FORSAT",UEFA Europa League: Lech vs Leverkusen - SonyLiv ENG - AQ
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
-#EXTVLCOPT:http-origin=https://www.sonyliv.com
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022319/Footlive1709/ENG/master.m3u8
-
-#EXTINF:-1 tvg-id="820" tvg-name="UEFA Europa League: Torreense vs Sunderland - TNT SPORTS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy6Zf4h7zMicDqx2UW3V_qKetsfMXR03r1yk_nSa9XCaS4uA9Guq85u6s&s=10" group-title="LIVE FORSAT",UEFA Europa League: Torreense vs Sunderland - TNT SPORTS SD
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uel/2026-09-17/juv-nec
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=uel/2026-09-17/juv-nec
-https://messi.damitv.st/live-hls/channel/uel/2026-09-17/juv-nec/playlist.m3u8?tk=DlM9EDZ-FwSHKWR7KO2zvA&e=1789713053
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Everton vs.Chelsea | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Espanyol vs.Atlético Madrid | Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Venezia vs.Napoli | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] 1. FC Union Berlin vs.Borussia Dortmund | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/ueyeztrazb4.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Fulham vs.Hull City | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Manchester City vs.Ipswich Town | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Brentford vs.Liverpool | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8
 
 
 
