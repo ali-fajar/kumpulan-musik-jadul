@@ -678,27 +678,51 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Everton vs.Chelsea | English (STRMCNTR)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Leeds United vs.Manchester United | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Espanyol vs.Atlético Madrid | Spanish (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Venezia vs.Napoli | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] 1. FC Union Berlin vs.Borussia Dortmund | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Fulham vs.Hull City | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Manchester City vs.Ipswich Town | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Brentford vs.Liverpool | English (STRMCNTR)
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Brighton & Hove Albion vs.Crystal Palace | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] AFC Bournemouth vs.Sunderland | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Angers vs.Marseille | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Fiorentina vs.Como | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Celta Vigo vs.Alavés | Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Paris FC vs.Stade Rennais | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Lorient vs.AS Monaco | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Le Havre AC vs.AJ Auxerre | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/griogoehvn2.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Nottingham Forest vs.Arsenal | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] AC Milan vs.Atalanta | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Málaga vs.Real Sociedad | Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Lyon vs.Nice | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Juventus vs.Lazio | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-id="Live.Event.us" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" group-title="LIVE FORSAT",[Football] Real Madrid vs.Sevilla | Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream2.pro/hls/377qj1h2727.m3u8
 
 
 
