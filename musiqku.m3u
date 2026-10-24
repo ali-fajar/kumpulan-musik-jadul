@@ -215,11 +215,11 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=li
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" tvg-logo="https://iili.io/JV3xvtI.png" group-title="NASIONAL", IDX Channel
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=134
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=134
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=134
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
 
 
 #EXTVLCOPT:http-referrer=https://garuda.tv/
@@ -1960,19 +1960,19 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/kwj9ebjr2v/out/v
 
 
 #EXTINF:-1 tvg-name="GALAXY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPWW9hfSdBL5nvhfxi9WXWNsiMbQ9syBokLTB547bemlm8uylVFFEA5M&s=10" group-title="MOVIES",GALAXY 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=49
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=49
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=49
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 
 #EXTINF:-1 tvg-name="GALAXY PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxqYF4OFYPgUSOpdzNcPM02mpACtH7DU7Skqy_z-pNEp8-_BT8SV1ks&s=10" group-title="MOVIES",GALAXY PREMIUM 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=48
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=48
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=48
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
 
 
@@ -1984,11 +1984,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 
 #EXTINF:-1 tvg-name="HITS MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrhCDrbjPE34AMiTqWkZIXpf-tWEc9FrhNaHqIVNyj_YC1cD16f1twEk&s=10" group-title="MOVIES",HITS MOVIES (V+)
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=42
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=42
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=42
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #EXTINF:-1 tvg-id="BUDYSTAR" group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
