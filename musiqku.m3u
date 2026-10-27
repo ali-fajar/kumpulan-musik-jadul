@@ -1796,39 +1796,19 @@ https://wildearth-xumo.amagi.tv/masterR216p.m3u8
 
 
 
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ RAMBO HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15497.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ ROCKY HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15495.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ THE HOBBIT HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15491.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ BIOSCOOP HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15490.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ JAWS HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/243918.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ POLICE ACADEMY HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/243917.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ BUD SPENCER HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15472.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ ESCAPE ROOM HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15474.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ WESLEY SNIPES HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15500.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ BOLLYWOOD HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15496.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ BRUCE LEE HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/243919.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ SCARY MOVIE HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15492.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ DEATH RACE HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15489.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ FRIDAY THE 13TH
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15488.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ X-MEN HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15487.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png", ZONE+ HARRY POTTER HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/15486.m3u8
 
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/PREMIERLEAGUE/NETFLIX.png",  NETFLIX PREMIERE 1 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1169317.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/PREMIERLEAGUE/NETFLIX.png",  NETFLIX PREMIERE 2 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1169318.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/PREMIERLEAGUE/NETFLIX.png",  NETFLIX PREMIERE 3 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1169319.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/PREMIERLEAGUE/NETFLIX.png",  NETFLIX PREMIERE 4 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1169320.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="http://picon.tivi-ott.net:25461/picon/PREMIERLEAGUE/NETFLIX.png",  NETFLIX PREMIERE 5 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1169321.m3u8
 
 
 
