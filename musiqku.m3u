@@ -692,74 +692,65 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
 
-
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Manchester United vs Bournemouth --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Manchester United vs Bournemouth --- CH 2
-https://www.rtmpcdn.com/live/ed3cecd3-c3ed-4582-ac89-d624f053e291.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Chelsea vs Manchester United --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Chelsea vs Manchester United --- CH 2
+https://www.rtmpcdn.com/live/cbab0097-c9d6-49e8-be82-9530f64af720.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Liverpool vs Brighton --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Liverpool vs Brighton --- CH 2
-https://www.rtmpcdn.com/live/9ee0a95d-7923-4306-be9d-4e8b12a27d45.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Stoke City vs Preston --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png",Stoke City vs Preston --- CH 1
+http://193.47.62.44/hls/ZZZZ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Hull City vs Brentford --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Hull City vs Brentford --- CH 2
-https://www.rtmpcdn.com/live/be99b1b4-b18e-4df3-ba0a-e4b4d34f63aa.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Norwich City vs Watford --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png",Norwich City vs Watford --- CH 1
+http://193.47.62.44/hls/goooAAAAQQQQA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Crystal Palace vs Newcastle United --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1605140132847403008/29zfnVM0_400x400.jpg",Crystal Palace vs Newcastle United --- CH 2
-https://www.rtmpcdn.com/live/77dfe595-8279-4871-82ff-68d1c877a1a2.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Lincoln vs Birmingham City --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809127096000512/o9bjAiA__400x400.png",Lincoln vs Birmingham City --- CH 1
+http://193.47.62.44/hls/goooAAAAQQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="PSV vs Feyenoord" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",PSV vs Feyenoord
-http://193.47.62.50/hls/FUUUAAA.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Plymouth vs Reading --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Plymouth vs Reading --- CH 1
+http://193.47.62.44/hls/goooAAAAQQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="NEC Nijmegen vs Groningen" tvg-logo="https://pbs.twimg.com/profile_images/1858829033355493376/MyVA18Zj_400x400.jpg",NEC Nijmegen vs Groningen
-http://193.47.62.50/hls/FUUUAA.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Leyton Orient vs Cambridge Utd --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Leyton Orient vs Cambridge Utd --- CH 1
+http://193.47.62.44/hls/goooAAAAQQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Viking vs Tromso" tvg-logo="https://pbs.twimg.com/profile_images/1742489355363450880/qQW645XW_400x400.jpg",Viking vs Tromso
-http://193.47.62.50/hls/FUUUA.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Bradford City vs Huddersfield --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Bradford City vs Huddersfield --- CH 1
+http://193.47.62.44/hls/goooAAAAQ.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Sturm Graz vs Ried" tvg-logo="https://pbs.twimg.com/media/FUumFx6XwAANi53.jpg",Sturm Graz vs Ried
-http://193.47.62.50/hls/FUUU.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Bradford City vs Huddersfield --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/2066809211263053824/Zo_4i328_400x400.png",Bradford City vs Huddersfield --- CH 2
+https://www.rtmpcdn.com/live/2760b327-8667-4e74-979a-c2e38e95d76c.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Athletic Bilbao vs Getafe --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Athletic Bilbao vs Getafe --- CH 1
-http://193.47.62.50/hls/HHHH6AAA.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Port Vale vs Rochdale" tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png",Port Vale vs Rochdale
+http://193.47.62.44/hls/goooAAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Athletic Bilbao vs Getafe --- CH 2" tvg-logo="https://pbs.twimg.com/profile_images/1865692791516352512/lccvCyOR_400x400.jpg",Athletic Bilbao vs Getafe --- CH 2
-https://www.rtmpcdn.com/live/b0429aa5-54a0-40c2-aee0-6e38c26f8dd7.m3u8
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Grimsby vs York City" tvg-logo="https://pbs.twimg.com/profile_images/2066809302329757696/8JzdRXMH_400x400.png",Grimsby vs York City
+http://193.47.62.44/hls/goooAAA.m3u8
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Sabadell vs Tenerife" tvg-logo="https://pbs.twimg.com/profile_images/2043992816377049088/r9FnBdQu_400x400.jpg",Sabadell vs Tenerife
-http://193.47.62.50/hls/HHHH6AA.m3u8
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
-
 
 
 ==========================================TIMNAS =================================================================
