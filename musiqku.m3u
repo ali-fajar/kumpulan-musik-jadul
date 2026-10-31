@@ -5523,6 +5523,15 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bundes3&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bundes4&type=m3u8
 
 
+#EXTINF:-1 group-title="BUNDESLIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png",  DAZN BUNDESLIGA 1
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1025526.m3u8
+#EXTINF:-1 group-title="BUNDESLIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png",  DAZN BUNDESLIGA 2
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1025525.m3u8
+#EXTINF:-1 group-title="BUNDESLIGA" tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZN/DAZN.png",  DAZN BUNDESLIGA 3
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1025524.m3u8
+
+
+
 ========================================== MLS =============================================================================
 
 
