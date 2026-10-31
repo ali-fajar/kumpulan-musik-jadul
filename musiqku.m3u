@@ -5429,19 +5429,15 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=spa2&type=m3u8
 #EXTVLCOPT:http-referrer=https://xstream.st/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=spa3&type=m3u8
 
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTLALIGA.png",PREMIER SPORT LALIGA TV HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/callection/sports-ch12/sports-ch12/163610.m3u8
 
-#EXTINF:-1  group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", LALIGA REPLAY 1 HD 
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/587537.m3u8
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", LALIGA REPLAY 2 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/587536.m3u8
-#EXTINF:-1  group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", LALIGA REPLAY 3 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/587535.m3u8
-#EXTINF:-1  group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", LALIGA REPLAY 4 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/587534.m3u8
-#EXTINF:-1  group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png", LALIGA REPLAY 5 HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/587533.m3u8
+#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",  LALIGA REPLAY 1 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/587537.m3u8
+#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",  LALIGA REPLAY 2 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/587536.m3u8
+#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",  LALIGA REPLAY 3 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/587535.m3u8
+#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/LALIGA.png",  LALIGA REPLAY 4 HD
+https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/587534.m3u8
 
 
 =======================================LIGA ITALIA==========================================================================
