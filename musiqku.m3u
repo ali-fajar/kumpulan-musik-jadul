@@ -3591,31 +3591,23 @@ https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="VISION+",RCTI
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=1
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=1
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=rcti&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="VISION+",MNCTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=2
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=2
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=mnctv&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="VISION+",GTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=3
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=3
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=gtv&type=m3u8
 
 #EXTINF:-1 tvg-id=TV | SPORTS STARHUBGOkita" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="VISION+",INEWS TV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=4
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=4
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=inews&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="VISION+", SINDONEWS TV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3636,10 +3628,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=trans7&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="VISION+",ANTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=10
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=10
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=antv&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="VISION+",RTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3650,10 +3640,8 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=11
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="VISION+",TVONE
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=12
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=12
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=tvone&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="VISION+",KOMPAS TV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3664,10 +3652,8 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=13
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="VISION+",METRO TV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=14
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=14
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=metrotv&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png" group-title="VISION+",BTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3748,10 +3734,8 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=30
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="VISION+",THRILL
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=41
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=41
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=thrill&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="VISION+",SPORTSTARS
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3834,17 +3818,13 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=42
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png" group-title="VISION+",CELESTIAL MOVIES
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=44
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=44
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=celestialmovies&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png" group-title="VISION+",CCM
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=45
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=45
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ccm&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="VISION+",TVN MOVIES
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3953,10 +3933,8 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=73
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/635/635-LOGO-m.png" group-title="VISION+",KIX
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=75
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=75
+#EXTVLCOPT:http-user-agent=android-R+
+https://bintangstreaming.my.id/connect/index.m3u8?channel=kix&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/636/636-LOGO-m.png" group-title="VISION+",NHK WORLD PREMIUM
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
