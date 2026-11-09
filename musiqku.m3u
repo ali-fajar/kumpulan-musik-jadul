@@ -4755,7 +4755,7 @@ https://aktasari.pages.dev/ion26/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/T
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5c133979efad5_VpBu-480x320.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5960dd05bc748_nI07-480x320.png" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia",TV 2
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://thumbnail.imgbin.com/25/3/22/imgbin-tv2-radio-televisyen-malaysia-tv1-television-channel-tv-93ndt1nKdhGQeELvQx0Jyqrw7_t.jpg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia",TV 2
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
