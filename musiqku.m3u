@@ -4769,12 +4769,12 @@ https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tv3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Astro_oasis.m3u8
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/6720a82c628f8_iNkO-480x320.png", ASTRO RANIA
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d01eb638b6f5a8c629f379e314e1b39f.png", ASTRO RANIA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Astrorania.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/688dc1e138652_KC5L-480x320.jpg" group-title="Malaysia", ASTRO AURA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/8a7da6b01b1d3530bd1b1d4d4bcc8a4e.png" group-title="Malaysia", ASTRO AURA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Astroaura.m3u8
 
@@ -4791,10 +4791,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 
 
 
-#EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://www.lyngsat.com/logo/tv/num/8-tv-my.png",8TV Malaysia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#https://rakyattv.my.id/donate/stream.php/.m3u8?id=8tv
-
 #EXTINF:-1 tvg-url="https://bit.ly/UnifyEpg" tvg-id="109" group-title="Malaysia" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tv9-malaysia-logo.png",TV 9 Malaysia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
@@ -4808,19 +4804,17 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/65ffd20d8ad4b_Ne3n-480x320.png", ASTRO RIA
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png", ASTRO RIA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/658fd2b4c7dd0_ll19-480x320.jpg", ASTRO SENSASI
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
-#https://rakyattv.my.id/donate/stream.php/.m3u8?id=sensasi
+
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/ASTRO CITRA.png", ASTRO CITRA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 http://tv.cloudcdn.me/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 group-title="Malaysia" tvg-logo="https://www.kds.tw/wp-content/uploads/2025/09/5b051150ecc8f_99zC-480x320.png", ASTRO PRIMA
+#EXTINF:-1 group-title="Malaysia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png", ASTRO PRIMA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 http://tv.cloudcdn.me/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
 
