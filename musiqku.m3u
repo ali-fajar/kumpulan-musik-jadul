@@ -1003,6 +1003,12 @@ EXTVLCOPT:http-referrer=https://m.vidio.com/
 #https://badmintonlive.net/live-stream/live/1a0c2fbdd03d534f88ace88c41f931de.flv
 
 
+#EXTINF:-1 group-title="BADMINTON" tvg-logo="", MY: Astro Badminton 1 FHD
+http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceMac=00:1A:79:07:07:43
+
+#EXTINF:-1 group-title="BADMINTON" tvg-logo="", MY: Astro Badminton 2 FHD
+http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceMac=00:1A:79:07:07:43
+
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/fOE__txPWlfpOh5t8nx1aH6_Hj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5266846/3bc1f8.jpg" group-title="BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-origin=https://nadia01eo.tn76degree12ec3out.cfd
@@ -4808,7 +4814,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
 http://tv.cloudcdn.me/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:07:07:43
 
-
+#EXTINF:-1 group-title="Malaysia" tvg-logo="",  Astro Boo FHD
+http://tv.cloudcdn.me/live.ts?channelId=133064&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/ASTRO CITRA.png", ASTRO CITRA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
