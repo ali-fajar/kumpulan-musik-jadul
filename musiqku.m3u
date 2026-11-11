@@ -6348,7 +6348,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana4&type=m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zj1pap1731234597.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://skytv4k.org:8080/ajA72trobH/x8oK6dpJNP/18632
+http://tv.cloudcdn.me/live.ts?channelId=133062&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5wx2p81731236425.png" group-title="SPORTS" tvg-id="001" tvg-name="",  ASTRO ARENA 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6364,7 +6364,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93741&uid=10223&deviceMac=00:1A:79:07:07
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/assp1.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=133122&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="Astropremierleague2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",ASTRO PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
