@@ -49,7 +49,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=indosiar&type=m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=00000000000000000009
-https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000009
+#https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000009
+https://iptv.lancartech.co.id/angka123/Angka0610/11
 
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", RCTI +
