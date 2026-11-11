@@ -1004,10 +1004,10 @@ EXTVLCOPT:http-referrer=https://m.vidio.com/
 #https://badmintonlive.net/live-stream/live/1a0c2fbdd03d534f88ace88c41f931de.flv
 
 
-#EXTINF:-1 group-title="BADMINTON" tvg-logo="", MY: Astro Badminton 1 FHD
+#EXTINF:-1 group-title="BADMINTON" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sys7xt1750838681.png", MY: Astro Badminton 1 FHD
 http://tv.cloudcdn.me/live.ts?channelId=133049&uid=10223&deviceMac=00:1A:79:07:07:43
 
-#EXTINF:-1 group-title="BADMINTON" tvg-logo="", MY: Astro Badminton 2 FHD
+#EXTINF:-1 group-title="BADMINTON" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sys7xt1750838681.png", MY: Astro Badminton 2 FHD
 http://tv.cloudcdn.me/live.ts?channelId=133050&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/fOE__txPWlfpOh5t8nx1aH6_Hj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5266846/3bc1f8.jpg" group-title="BADMINTON", COURT 1
