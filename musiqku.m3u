@@ -4832,7 +4832,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.tvmy.online/
 #https://on.4tv3.workers.dev/tv3.m3u8
-https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tv3.m3u8
+#https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tv3.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="Astro oasis" tvg-name="Astro oasis" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/ASTRO MALAYSIA/ASTRO OASIS.png", ASTRO OASIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
