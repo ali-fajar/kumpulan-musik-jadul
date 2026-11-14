@@ -703,7 +703,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #EXTINF:-1 group-title="LIVE FORSAT" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/1200x0/webp/photo/p1/04/2026/11/11/Jadwal-Timnas-Indonesia-U-17-vs-Filipina-U-17-1694867649.jpeg", 15:30 WIB Philippines U17 vs Indonesia U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-https://live2.jorvakstreamcache.com/live/channel14.m3u8
+#https://live2.jorvakstreamcache.com/live/channel14.m3u8
+https://live2.domainkqt.cc/live/channel4.m3u8
 
 #EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Zambia vs Burundi --- CH 1" tvg-logo="https://pbs.twimg.com/profile_images/2113931478333579264/BVFLs51j_400x400.png",Zambia vs Burundi --- CH 1
 http://193.47.62.50/hls/HTTTAA.m3u8
