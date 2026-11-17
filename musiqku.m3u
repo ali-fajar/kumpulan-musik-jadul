@@ -5915,16 +5915,16 @@ https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sportsele
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Sportselect2.m3u8
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 1.png", HUB PREMIER 1 FHD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1314077&extension=m3u8
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1326.ts
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 2.png",HUB PREMIER 2 FHD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1314078&extension=m3u8
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1325.ts
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 3.png",HUB PREMIER 3 FHD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1314079&extension=m3u8
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1324.ts
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/┃UK┃ HUB PREMIER PPV/HUB PREMIER 4.png",HUB PREMIER 4 FHD
-http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1314080&extension=m3u8
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1323.ts
 
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/MALTA/MT MALTA/TSN.png", TSN 1 HD
 https://raw.githubusercontent.com/ali-fajar/Hub-Sports/refs/heads/main/Tsn1.m3u8
@@ -5983,6 +5983,23 @@ https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1729171.
 #EXTINF:-1 group-title="SPORT FORSAT" tvg-logo="http://picon.tivi-ott.net:25461/picon/Poland/┃PL┃ POLSAT SPORT/POLSAT SPORT PREMIUM 2.png",  POLSAT SPORT PREMIUM 2 HD
 https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1729173.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zj1pap1731234597.png" group-title="SPORT FORSAT", M ASTRO ARENA HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410915.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5wx2p81731236425.png" group-title="SPORT FORSAT",  ASTRO ARENA 2 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410916.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/c31des1731235026.png" group-title="SPORT FORSAT",  ASTRO SPORTS PLUS HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410919.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/necgva1731235994.png" group-title="SPORT FORSAT", ASTRO FOOTBALL HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1410917.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/g0g6p61731234018.png" group-title="SPORT FORSAT", ASTRO PREMIER LEAGUE 1 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470698.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bk9vbh1731234210.png" group-title="SPORT FORSAT", ASTRO PREMIER LEAGUE 2 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470699.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n6xwye1731234426.png" group-title="SPORT FORSAT", ASTRO PREMIER LEAGUE 3 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470700.ts
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png" group-title="SPORT FORSAT", ASTRO PREMIER LEAGUE 4 HD
+http://akqfvtyh.fhvpnw.com:88/live/7C7D3CDB/9726BCC9/1470701.ts
 
 
 ========================================F1========================================================
