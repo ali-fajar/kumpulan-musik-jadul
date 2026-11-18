@@ -15,7 +15,7 @@
 #http://31.43.191.125:8080/live/VIP01781738601885328/9eb3a600f003/34405.ts
 http://royaltv.world:25461/live/M8012/3422/14229.ts
 
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://www.visionplus.id/images/repository/446/353446-SNAPSHOT-l.png" group-title="NASIONAL", MNC TV
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://forsattv.my.id/gambar/mnctv.jpg" group-title="NASIONAL", MNC TV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=android-R+
 https://bintangstreaming.my.id/connect/index.m3u8?channel=mnctv&type=m3u8
@@ -58,7 +58,7 @@ https://bintangstreaming.my.id/1rcti_baru1/stream.php/stream.mpd?id=9
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", RCTI HD
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://forsattv.my.id/gambar/rcti.jpg" group-title="NASIONAL", RCTI HD
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=android-R+
 https://bintangstreaming.my.id/connect/index.m3u8?channel=rcti&type=m3u8
