@@ -721,8 +721,21 @@ https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_75u9s151
 #EXTINF:-1 group-title="LIVE FORSAT" tvg-name="ksa U17 vs uruguay U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",ksa U17 vs uruguay U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_75u9s151
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_5fq4oc6f
 https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_5fq4oc6f
+
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="mozambik U17 vs denmark U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",mozambik U17 vs denmark U17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_qm8qg4cd
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_qm8qg4cd
+
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="qatar U17 vs panama U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",qatar U17 vs panama U17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_9vbf7id
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_9vbfz7id
+
 
 ==========================================TIMNAS =================================================================
 
