@@ -3560,18 +3560,24 @@ https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="VISION+",RCTI
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=rcti&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=00000000000000000001
+https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000001
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="VISION+",MNCTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=mnctv&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=00000000000000000002
+https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000002
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="VISION+",GTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=gtv&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=00000000000000000003
+https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000003
 
 #EXTINF:-1 tvg-id=TV | SPORTS STARHUBGOkita" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="VISION+",INEWS TV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3582,18 +3588,22 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=inews&type=m3u8
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=5
-https://bintangstreaming.my.id/rcti_pro/index.mpd?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=00000000000000000003
+https://bintangstreaming.my.id/1vision1/stream.php/stream.m3u8?id=00000000000000000003
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="VISION+",TRANS TV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=transtv&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=00000000000000000006
+https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000006
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="VISION+",TRANS 7
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=trans7&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=00000000000000000007
+https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000007
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="VISION+",ANTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
