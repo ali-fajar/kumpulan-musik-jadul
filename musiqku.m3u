@@ -704,49 +704,56 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #https://live2.jorvakstreamcache.com/live/channel14.m3u8
 https://live2.domainkqt.cc/live/channel4.m3u8
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Belgia U17 vs Vietnam U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Belgia U17 vs Vietnam U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Jepang U17 vs Kolumbia U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Jepang U17 vs Kolombia U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_aig9ccv9
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_aig9ccv9
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_p3t21i5l
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_p3t21i5l
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Kuba U17 vs Tajikistan U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Kuba U17 vs Tajikistan U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Serbia U17 vs Honduras U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Serbia U17 vs Honduras U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_hjnfh0n5
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_hjnfh0n5
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_emjw7hai
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_emjw7hai
 
 
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Mali U17 vs Selandia U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Mali U17 vs Selandia U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Tanzania U17 vs Kostarika U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Tanzania U17 vs Kostarika U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_p6e7xgc4
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_p6e7xgc4
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_j5ioy4ok
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_j5ioy4ok
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Spanyol U17 vs Tiongkok U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Spanyol U17 vs Tiongkok U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Kamerun U17 vs Venezuela U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Kamerun U17 vs Venezuela U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_o0xxsi6p
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_o0xxsi6p
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_99k66546
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_99k66546
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Italia U17 vs Jamaika U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Italia U17 vs Jamaika U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Dominika U17 vs Montenegro U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Dominika U17 vs Montenegro U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_78oswowa
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_78oswowa
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_l3iao4tj
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_l3iao4tj
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Pantai U17 vs Uzbek U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Pantai gading U17 vs Uzbekistan U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Brazil U17 vs Irlandia U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Brazil U17 vs Irlandia U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_3hwel700
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_3hwel700
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_rgc1kgge
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_rgc1kgge
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Senegal U17 vs Kroasia U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Senegal U17 vs Kroasia U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Cile U17 vs Aljazair U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Cile U17 vs Aljazair U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_ebyt930k
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_ebyt930k
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_8h99zzoy
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_8h99zzoy
+
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Mexico U17 vs Rumania U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Mexico U17 vs Rumania U17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_8gdo8fbc
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_8gdo8fbc
+
 
 ==========================================TIMNAS =================================================================
 
