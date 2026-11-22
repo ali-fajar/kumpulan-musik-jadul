@@ -62,10 +62,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/in
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://forsattv.my.id/gambar/rcti.png" group-title="NASIONAL", RCTI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/clearkey.json
-https://bintangstreaming.my.id/1rcti1/stream.php/stream.m3u8?id=rcti
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=0001&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
 
@@ -5046,7 +5046,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bri6&type=m3u8
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=122
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=000122&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 
@@ -5054,7 +5054,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=123
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=000123&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 
@@ -5062,7 +5062,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/ind
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=000124&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 group-title="UCL" tvg-id="TNTSports1.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",TNT SPORTS 1
@@ -5350,14 +5350,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=122
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=000122&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports" group-title="LIGA SPANYOL" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=124
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=000124&type=drm
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 
