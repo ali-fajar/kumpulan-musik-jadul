@@ -96,7 +96,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 https://vidio123.mikrofast.web.id/vidio/204/index.mpd
 
 
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="NASIONAL", GTV 
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/gtv.jpg" group-title="NASIONAL", GTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -106,21 +106,21 @@ https://bintangstreaming.my.id/1rcti1/stream.php/stream.m3u8?id=gtv
 
 
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToXorlOXd_rW-sny5VAYf1Cv9gDpaXjqQ0ZquygkagnmVVMCZT6d4DLQI&s=10" group-title="NASIONAL",TransTV HD
+#EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Transtv.png" group-title="NASIONAL",TransTV HD
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=00000000000000000006
 https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000006
 
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Trans7.png" group-title="NASIONAL", TRANS 7
 #EXTVLCOPT:http-referer=https://www.cnbcindonesia.com/
 #EXTVLCOPT:http-origin=https://20.detik.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2023/06/30/Trans-7-1341636338.jpeg" group-title="NASIONAL", Trans 7 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Trans7.png" group-title="NASIONAL", Trans 7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -129,14 +129,14 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 http://royaltv.world:25461/live/M8012/3422/103.ts
 
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV 
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Antv.png" group-title="NASIONAL", ANTV 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=android-R+
 https://bintangstreaming.my.id/connect/index.m3u8?channel=antv&type=m3u8
 
 
 
-#EXTINF:-1 tvg-name="ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV 2
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Antv.png" group-title="NASIONAL", ANTV 2
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=android-R+
 https://bintangstreaming.my.id/connect/index.m3u8?channel=antv&type=m3u8
@@ -180,7 +180,7 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lit
 #https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
 
-#EXTINF:-1 tvg-name="TV ONE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE 
+#EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/tvone.jpg" group-title="NASIONAL", TV ONE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -189,7 +189,7 @@ https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 #http://royaltv.world:25461/live/M8012/3422/107.ts
 
-#EXTINF:-1 tvg-name="TV ONE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV ONE 2
+#EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/tvone.jpg" group-title="NASIONAL", TV ONE 2
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=
