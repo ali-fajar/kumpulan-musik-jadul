@@ -186,8 +186,8 @@ https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=000000000000000000012
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
-#http://royaltv.world:25461/live/M8012/3422/107.ts
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
+https://bintangstreaming.my.id/1vision1/stream.php/stream.m3u8?id=000000000000000000012
 
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/tvone.jpg" group-title="NASIONAL", TV ONE 2
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
