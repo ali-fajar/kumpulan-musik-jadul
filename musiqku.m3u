@@ -1107,7 +1107,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/KIDS BABY/cartoon network.png", CARTOON NETWORK HD
-https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858768.m3u8
+#https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/858768.m3u8
 
 
 #EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-name="CBeebies" tvg-logo="https://ih1.redbubble.net/image.4112077176.0053/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" group-title="KIDS", CBEEBIES
@@ -1158,12 +1158,10 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
 
-#EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-logo="https://i.ibb.co.com/XX9gHq7/buddystr.png" group-title="KIDS", BUDDY STAR
+#EXTINF:-1 tvg-id="Animax" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animax.png" group-title="KIDS", ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
-#https://fta1-cdn-flr.visionplus.id/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+https://dsgtq5sngxkde.cloudfront.net/animax/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Playkids.png", PLAY KIDZ 123 HD
 https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/858749.m3u8
