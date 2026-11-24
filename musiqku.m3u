@@ -130,16 +130,16 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 http://royaltv.world:25461/live/M8012/3422/103.ts
 
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Antv.png" group-title="NASIONAL", ANTV 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=antv&type=m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/antv/index.m3u8
 
 
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Antv.png" group-title="NASIONAL", ANTV 2
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=antv&type=m3u8
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+http://forsattv.my.id/podi/vip.php/.mpd?id=782&type=dash
 
 
 #EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Rtv.png" group-title="NASIONAL", RTV 
@@ -1133,7 +1133,7 @@ https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV
 #EXTINF:-1 tvg-id="CBeebies - [Channel 41].id" tvg-name="CBeebies" tvg-logo="https://ih1.redbubble.net/image.4112077176.0053/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" group-title="KIDS", CBEEBIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/cbeebies/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/cbeebies/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-name="CINEMACHI KIDS" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemachi-kids-uk.png" group-title="KIDS", CINEMACHI KIDS
@@ -1149,7 +1149,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:-1 tvg-id="Dreamworks - [Channel 47].id" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="KIDS", DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/dreamworks/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/dreamworks/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d2tKoyQ.jpg" group-title="KIDS", DISNEY CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1246,12 +1246,12 @@ http://tvratu.my.id/oxygen/index.m3u8?id=vtv
 #EXTINF:-1 tvg-id="Nick Jr. HD - [Channel 472].id" tvg-name="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="KIDS", NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/nickjr/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
 
 #EXTINF:-1 tvg-id="MMoonbugKids.uk@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="KIDS" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/zoomoo/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/zoomoo/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/ozc4u9twi5f4917/moonbugkids.png" group-title="KIDS", Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -1259,7 +1259,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="KIDS",ZooMoo (Vision+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/moonbug/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/moonbug/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USBC2400019EF" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="KIDS", ZOO MOO
@@ -1269,7 +1269,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png" group-title="KIDS", KIDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/kidstv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/kidstv/index.m3u8
 
 
 
@@ -1590,17 +1590,17 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="BBC Earth HD - [Channel 461].id" tvg-name="BBC EARTH" tvg-logo="https://iili.io/JpsEnEJ.jpg" group-title="KNOWLEDGE", BBC EARTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/bbcearth/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/bbcearth/index.m3u8
 
 #EXTINF:-1 tvg-id="Crime Investigation - [Channel 207].id" tvg-name="CRIME INVESTIGATION" tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png" group-title="KNOWLEDGE", CRIME INVESTIGATION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/crimeinvest/index.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSga_gSk1RlZxPDcMteQxruSQH5n-hbIm_QA&s",HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/history/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/history/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrz2wJOqPQToudptRma5A9sf0Rk5ydUeqTVwMDaehvtsL7LQfrImwX0MBVTz8vXMaG98&usqp=CAU" group-title="KNOWLEDGE", CURIOSITY CHANNEL
@@ -1638,11 +1638,6 @@ https://amg00735-amg00735c19-astrosooka-singapore-6038.playouts.now.amagi.tv/pla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="KNOWLEDGE",Discovery Channel
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
-#https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsLTWt1034drckqP_opJyUjnTK65lHfoDR_kBQznMWQ&s=10", TLC HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1669,8 +1664,8 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 
 #EXTINF:-1 tvg-id="Global Trekker - [Channel 201].id" tvg-name="GLOBAL TREKKER" tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-trekker-sg.png" group-title="KNOWLEDGE", GLOBAL TREKKER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/globetrakker/index.m3u8
 
 
 
@@ -1698,7 +1693,7 @@ https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/240p-cc/index
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/zVTNdBP/lovenature.png" group-title="KNOWLEDGE",Love Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/lovenature/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/lovenature/index.m3u8
 
 
 
@@ -1740,7 +1735,7 @@ https://d1tm3cz23db55z.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="KNOWLEDGE" tvg-url="https://bit.ly/IndonesiaEpg" tvg-id="OutdoorChannel" tvg-name="", Outdoor Channel V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/ios/outdoor/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/outdoor/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Outdoor Channel" tvg-name="OUTDOOR CHANNEL" tvg-logo="https://iili.io/Jpsqv6J.jpg" group-title="KNOWLEDGE", OUTDOOR CHANNEL
@@ -1810,9 +1805,9 @@ https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/1169321.
 
 
 #EXTINF:-1 tvg-id="AXN - [Channel 154].id" tvg-name="AXN" tvg-logo="https://i.ibb.co.com/f9XVz9j/axn.png" group-title="MOVIES", AXN
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/axn/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="Bioskop Indonesia" tvg-logo="https://i.ibb.co.com/Yf7XNzn/bioskopid.png", BIOSKOP INDONESIA IN
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -1880,9 +1875,9 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/in
 
 
 #EXTINF:-1 tvg-name="CCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Rrq52g1KrV3uA3l96EnbrCOmGFLFNusi5H9hBBWt9DKdkBUfW97RMJRs&s=10" group-title="MOVIES",CCM (V+)
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=ccm&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/celestialclassic/index.m3u8
 
 
 
@@ -1895,9 +1890,9 @@ https://bintangstreaming.my.id/1vision1/stream.php/stream.m3u8?id=00000000000000
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6_hYFDpaSzyTF1AE09RV0titNtgFPL8vGkmEMENj1-l3N51Fnjmxy-A&s=10" group-title="MOVIES", ZEE BIOSKOP
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/zeebioskop/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
 
 
 
@@ -1910,33 +1905,27 @@ https://bintangstreaming.my.id/1vision1/stream.php/stream.m3u8?id=00000000000000
 
 
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/warner.jpg?raw=true" group-title="MOVIES",AXN 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/axn/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/axn/index.m3u8
 
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4Gxm5MMLoHPugSQuNxr60AGXY-90DOREMQ&s" group-title="MOVIES",KIX 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=kix&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/kix/index.m3u8
 
 
 
 #EXTINF:-1 tvg-name="THRILL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qMarslHjBHlOjzDjVZqs75LTP7NW1zpKbw&s" group-title="MOVIES",THRILL 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/thrill/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/thrill/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="ZeeBioskop.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/zeebioskop/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
 
-#EXTINF:-1  group-title="MOVIES" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony Max 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
-#https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -1948,14 +1937,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 tvg-id="tvN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/tvn.jpg?raw=true" group-title="MOVIES",TVN
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/tvn/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/tvn/index.m3u8
 
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" group-title="MOVIES",TvN movies HD
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/tvnmovies/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/tvnmovies/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/channel/newid_008/lg_channels/img/channel_logo/default/channel_logo.png" group-title="MOVIES",K-DRAMA+
@@ -1985,23 +1974,21 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/kwj9ebjr2v/out/v
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTINF:-1 tvg-name="GALAXY R+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPWW9hfSdBL5nvhfxi9WXWNsiMbQ9syBokLTB547bemlm8uylVFFEA5M&s=10" group-title="MOVIES",GALAXY R+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/galaxy/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/galaxy/index.m3u8
 
 
 #EXTINF:-1 tvg-name="GALAXY PREMIUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxqYF4OFYPgUSOpdzNcPM02mpACtH7DU7Skqy_z-pNEp8-_BT8SV1ks&s=10" group-title="MOVIES",GALAXY PREMIUM 
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/galaxyprem/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
 
 
 #EXTINF:-1 tvg-name="GALAXY PREMIUM R+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxqYF4OFYPgUSOpdzNcPM02mpACtH7DU7Skqy_z-pNEp8-_BT8SV1ks&s=10" group-title="MOVIES",GALAXY PREMIUM R+
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/galaxyprem/index.m3u8
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMA WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2017,33 +2004,33 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 https://bintangstreaming.my.id/1vision1/stream.php/stream.m3u8?id=000000000000000000042
 
 #EXTINF:-1 tvg-id="BUDYSTAR" group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/buddystars/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/buddystars/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CINEEDGE" group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/376/273376-LOGO-m.png",Cineedge
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/cineedge/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/cineedge/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ORIGINALS" group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/360/273360-LOGO-m.png",Originals
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/originals/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/originals/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SUPERRIX" group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/394/273394-LOGO-m.png",Superrix
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/superrix/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/superrix/index.m3u8
 
 
 #EXTINF:-1 tvg-id="UNIQUES" group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/397/273397-LOGO-m.png",Uniques
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/uniques/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/uniques/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY PIX HD" tvg-logo="https://i.ibb.co.com/yp9LbnZ/sonypix.png" group-title="MOVIES", SONY PIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -2082,9 +2069,9 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/SONY-MOVIES-HD/default.mpd
 #https://neacdnpop3-edge02.aws.playco.com/live/eds/StarzPlay_Crime/DASH/StarzPlay_Crime.mpd
 
 #EXTINF:-1   tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/movies/studiouniversal.jpg?raw=true" group-title="MOVIES", Studio Universal
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://proxy-v.rctiplus.id/live/ios/universal/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/universal/index.m3u8
 
 #EXTINF:-1 tvg-id="SYFY"  tvg-logo="https://i.ibb.co.com/gyvGPjT/syfy.png" group-title="MOVIES", SyFy (East)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3298,33 +3285,33 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 ########################### INDIHOME ####################################################
 
 #EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="Indihome",RCTI HD
-https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="Indihome",MNC TV
 #https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Indihome",GTV
 #https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://starhits.id/frontend/assets/images-trending/INEWS-WHITE.png",iNews
 #https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar
 #https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png", Sctv
 #https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",Max Sports
-https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="", Trans 7 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -3344,20 +3331,20 @@ https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id=">Kompas TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://w7.pngwing.com/pngs/310/692/png-transparent-kompas-tv-television-indonesia-news-kompas-television-angle-text-thumbnail.png" group-title="Indihome",Kompas TV HD 
 #https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://www.visionplus.id/images/repository/383/437383-SNAPSHOT-l.png", TvOne
 #https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/tvone/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/tvone/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:0 tvg-id="NET.id" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="Indihome", MDTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
  
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://i.ibb.co.com/1GsXBNwz/K.png", Kplus Drama Korea
 #https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", CITRA DRAMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3369,7 +3356,7 @@ https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Moji TV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -3378,31 +3365,31 @@ https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s"group-title="Indihome",MAXSTREAM INDI
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-RT_2025_10_24_15_49_57.jpg",Russia Today
 #https://cdn08jtedge.indihometv.com/dassdvr/194/rusiatv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
 https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_curiosity.png",Curiosity
 #https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_discoveryasia.png",Discovery Asia
 #https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/disco/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/disco/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_lovenature.png",Love Nature
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_flik.png",Flik
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3411,11 +3398,11 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707
 
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Indihome" tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png",Warner TV
 #https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-id="SindoNews.id" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Logo-sindonews.png", Sindonews
 #https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Al Jazeera
 #https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
@@ -3423,7 +3410,7 @@ https://cdnbal1.indihometv.com/atm/DASH/aljazeera/manifest.mpd
    
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Rodja TV
 #https://cdn10jtedge.indihometv.com/atm/DASH/rodjatv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/rodjatv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", JTV
 #https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
@@ -3431,36 +3418,36 @@ https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Bali TV
 #https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/balitv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/balitv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", MTATV
 #https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/mntatv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/mntatv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Nusantara
 #https://cdn10jtedge.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", ATV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcb7e2aeecf04c2ea7f84f6d5418c9c6:1f83ca6b943604a45ae429895e6f7fc6
-https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Tawaf TV
 #https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/tawaftv/manifest.mpd
   
 #EXTINF:-1 tvg-country=""  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="Indihome" ,SINPO TV
 #https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.pngg", Fashion TV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d7ddbeb304e46f38192f31d7d91bfc5:1c524bbe404124d0a4e24bfa75491ca2
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", MyKidz
 #https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
@@ -3468,23 +3455,23 @@ https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", TV5Monde
 #https://cdn10jtedge.indihometv.com/atm/DASH/tv5monde/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/tv5monde/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/tv5monde/manifest.mpd
    
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AXN
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", News Asia
 #https://cdn10jtedge.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", Bloomberg
 #https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
   
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", AllPlay
-https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
   
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", PANDA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3495,7 +3482,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
   
 #EXTINF:-1 tvg-id="Dunia Anak" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_duniaanak.png",Dunia Anak
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -3508,7 +3495,7 @@ https://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e27444f671974cefbb5063444ff91ce7:aa4dbc164e4083486b74462b025c42d5
 #https://cdn10jtedge.indihometv.com/atm/mpd-vo/indikids/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_IndiHome_TV.png", SHENZEN TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3621,9 +3608,9 @@ https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=000000000000000
 https://bintangstreaming.my.id/1vision1/stream.php/stream.mpd?id=00000000000000000007
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="VISION+",ANTV
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=antv&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/antv/index.m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-m.png" group-title="VISION+",RTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3633,9 +3620,9 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=antv&type=m3u8
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=11
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-m.png" group-title="VISION+",TVONE
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=tvone&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/tvone/index.m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="VISION+",KOMPAS TV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3645,9 +3632,9 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=tvone&type=m3u8
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=13
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png" group-title="VISION+",METRO TV
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=metrotv&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/metro/index.m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/357/273357-LOGO-m.png" group-title="VISION+",BTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3727,9 +3714,9 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=28
 https://bintangstreaming.my.id/rcti_pro/index.mpd?id=30
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/609/609-LOGO-m.png" group-title="VISION+",THRILL
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=thrill&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/thrill/index.m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="VISION+",SPORTSTARS
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -3811,14 +3798,14 @@ https://bintangstreaming.my.id/rcti_pro/index.mpd?id=42
 
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/612/612-LOGO-m.png" group-title="VISION+",CELESTIAL MOVIES
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=celestialmovies&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/celestialmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png" group-title="VISION+",CCM
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=android-R+
-https://bintangstreaming.my.id/connect/index.m3u8?channel=ccm&type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/celestialclassic/index.m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/614/614-LOGO-m.png" group-title="VISION+",TVN MOVIES
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
