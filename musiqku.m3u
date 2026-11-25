@@ -699,18 +699,18 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #https://live2.jorvakstreamcache.com/live/channel14.m3u8
 https://live2.domainkqt.cc/live/channel4.m3u8
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Kostarika U17 vs Irlandia U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Kostarika U17 vs Irlandia U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Uganda U17 vs Kaledonia U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Uganda U17 vs Kaledonia U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_cwz3o15x
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_cwz3o15x
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_1d530xdk
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_1d530xdk
 
 
-#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Venezuela U17 vs Rumania U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Venezuela U17 vs Rumania U17
+#EXTINF:-1 group-title="LIVE FORSAT" tvg-name="Ekuador U17 vs Korea U17" tvg-logo="https://pbs.twimg.com/profile_images/1969536164278226944/e28p665b.jpg",Ekuador U17 vs Korea U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_7vl4eh0m
-https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_7vl4eh0m
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_4yu66521
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_4yu66521
 
 
 
