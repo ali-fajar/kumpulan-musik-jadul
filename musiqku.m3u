@@ -3278,20 +3278,29 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
 ########################### INDIHOME ####################################################
 
-#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RCTI13Tahun.png" group-title="Indihome",RCTI HD
-#https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://forsattv.my.id/gambar/rcti.png" group-title="Indihome",RCTI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_nwsd3m5r
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_nwsd3m5r
 
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://c0.klipartz.com/pngpicture/382/669/gratis-png-logo-mnctv-television-medios-nusantara-citra-rcti-televisi-indonesia.png" group-title="Indihome",MNC TV
-#https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://forsattv.my.id/gambar/mnctv.png" group-title="Indihome",MNC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_3k1552mp
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_3k1552mp
 
-#EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="Indihome",GTV
-#https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
-#https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/gtv.jpg" group-title="Indihome",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_p7vlqu2a
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_p7vlqu2a
 
-#EXTINF:-1 group-title="Indihome" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://starhits.id/frontend/assets/images-trending/INEWS-WHITE.png",iNews
-#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
-#https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 group-title="Indihome" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Inews.jpg",iNews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_fn0qos3d
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_fn0qos3d
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar
@@ -3372,7 +3381,10 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
-https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_oyquzepi
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_oyquzepi
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_curiosity.png",Curiosity
 #https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
