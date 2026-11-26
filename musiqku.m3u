@@ -1897,6 +1897,11 @@ https://dsgtq5sngxkde.cloudfront.net/zeebioskop/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=000000000000000000093
 https://bintangstreaming.my.id/1vision1/stream.php/stream.m3u8?id=000000000000000000093
 
+#EXTINF:-1 tvg-name="ROCK ENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="MOVIES", ROCK ENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/rockent/index.m3u8
+
 
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/entertainment/warner.jpg?raw=true" group-title="MOVIES",AXN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1984,18 +1989,21 @@ https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/galaxyprem/index.m3u8
 
-#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMA WORLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://www.hitstv.com/assets/hits.png", HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/hits/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://www.hitstv.com/assets/hits.png", HITS NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/hitsnow/index.m3u8
 
 
 #EXTINF:-1 tvg-name="HITS MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrhCDrbjPE34AMiTqWkZIXpf-tWEc9FrhNaHqIVNyj_YC1cD16f1twEk&s=10" group-title="MOVIES",HITS MOVIES (V+)
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1vision1/widevine.php?id=000000000000000000042
-https://bintangstreaming.my.id/1vision1/stream.php/stream.m3u8?id=000000000000000000042
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/hitsmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="BUDYSTAR" group-title="MOVIES" tvg-logo="https://www.visionplus.id/images/repository/392/273392-LOGO-m.png",Buddy Star
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
