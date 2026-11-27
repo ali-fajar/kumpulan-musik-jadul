@@ -2182,8 +2182,10 @@ https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_qqui53si
 https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_s6bo567h
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55fd8821e4b0e00d15c6fa0f/1442702516979-HZWON79STPXJ2QYRTZDL/06.jpg" group-title="HBO GROUP", CINEMAX INDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://spmid.pw/play/GilYnrCW_MM0O4y8RxRw4k7jfUWSeWjhnf2JANHYtas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_7vx2webw
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_7vx2webw
 
 #EXTINF:-1 tvg-id="Hbo" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png" group-title="HBO GROUP",HBO MY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -2886,7 +2888,7 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_3/tracks-v1a1/mono.
 #https://qp-pldt-live-bpk-02-prod.akamaized.net/out/u/dr_nba.mpd
 
 #EXTINF:-1 group-title="CIGNAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/BEIN SPORTS 1 HD.png", BEIN SPORTS 1 HD
-https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/901323.m3u8
+#https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/901323.m3u8
 #EXTINF:-1 group-title="CIGNAL" tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PHILIPPINE/BEIN SPORTS 2 HD.png", BEIN SPORTS 2 HD
 #https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/901322.m3u8
 
@@ -3314,15 +3316,19 @@ https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_p7vlqu2a
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_fn0qos3d
 https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_fn0qos3d
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", Indosiar
-#https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png", Sctv
-#https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
-#https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://images.maxstream.tv//sites/default/files/entry/0_yvb8lpzs/landscape_carousel_hdpi.webp", CHINES DRAMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_yvb8lpzs
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_yvb8lpzs
+
+
+#EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://images.maxstream.tv//sites/default/files/entry/0_s7gzj2we/landscape_carousel_hdpi.webp", CINEMA WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_s7gzj2we
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_s7gzj2we
 
 
 #EXTINF:-1 tvg-id="--" group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/ali-fajar/PUISI-CINTA/refs/heads/main/Trans7.png", Trans 7 
@@ -3337,7 +3343,6 @@ https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_a7dno7wk
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_uakgnhip
 https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_uakgnhip
  
-
 
 #EXTINF:-1 tvg-id=">Kompas TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://images.maxstream.tv//sites/default/files/entry/0_930nfsqj/landscape_carousel_hdpi.webp" group-title="Indihome",Kompas TV HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -3383,9 +3388,11 @@ https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_urq0w0mp
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_ixad1kw8
 https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_ixad1kw8
 
-#EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-RT_2025_10_24_15_49_57.jpg",Russia Today
-#https://cdn08jtedge.indihometv.com/dassdvr/194/rusiatv/manifest.mpd
-#https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#EXTINF:-1 group-title="Indihome" tvg-logo="https://images.maxstream.tv//sites/default/files/entry/0_7vx2webw/landscape_carousel_hdpi.webp", CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/1maxstream1/drm.php?id=0_7vx2webw
+https://bintangstreaming.my.id/1maxstream1/stream.php/.mpd?id=0_7vx2webw
 
 #EXTINF:-1 group-title="Indihome" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_animal%20planet.png",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
